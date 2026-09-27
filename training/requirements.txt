@@ -1,0 +1,7 @@
+# 模型训练与推理依赖。CPU 推理把 torch 换成 CPU 版本同样可用。
+torch==2.6.0
+numpy>=2,<3
+nbtlib==2.0.4
+fastapi==0.116.1
+pydantic==2.11.7
+uvicorn[standard]==0.35.0

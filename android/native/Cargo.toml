@@ -1,0 +1,30 @@
+# 独立构建单元：使用自己的 release profile（LTO、panic=abort）并交叉编译到安卓，
+# 因此显式脱离仓库根的工作区，避免与宿主机端的 profile 设置互相影响。
+[workspace]
+
+[package]
+name = "mcscai-native"
+version = "0.1.0"
+edition = "2021"
+description = "安卓端原生运算层：红石模拟、十负载判定与领域规则"
+
+[lib]
+name = "mcscai_native"
+crate-type = ["cdylib", "rlib"]
+
+[features]
+# 默认不启用 JNI 导出，便于在宿主机上直接跑一致性测试。
+default = []
+jni = []
+
+[dependencies]
+mcscai-engine = { path = "../../engine" }
+serde = { version = "1", features = ["derive"] }
+serde_json = "1"
+jni = "0.21"
+
+[profile.release]
+opt-level = 3
+lto = true
+codegen-units = 1
+panic = "abort"

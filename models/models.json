@@ -1,0 +1,43 @@
+{
+  "default": "oooi-scmls-v1.1-preview",
+  "models": [
+    {
+      "id": "oooi-scmls-v1-preview",
+      "name": "oooi-scmls-v1-preview",
+      "architecture": "autoregressive_v1",
+      "path": "oooi-scmls-v1-preview.pt",
+      "checkpoint_sha256": "03820782d0761da41531206973ec2252e7f4b26b2640b46b91e203b6d8a411f7",
+      "parameters": 10808901,
+      "enabled": true,
+      "protocol": "eight_view_greedy_v1",
+      "status": "十二维需求（不含目标 z 与运行协议）＋解码器九档相对位置偏置；合并数据 158,842 条，30,000 步，末步 loss 0.0846；无时限口径下综合航械题 273/400",
+      "conditioning": {
+        "size": true,
+        "targets": true,
+        "max_ticks": false,
+        "rounds": false,
+        "load_blocks": false,
+        "target_z": false
+      }
+    },
+    {
+      "id": "oooi-scmls-v1.1-preview",
+      "name": "oooi-scmls-v1.1-preview",
+      "architecture": "autoregressive_v1",
+      "path": "oooi-scmls-v1.1-preview.pt",
+      "checkpoint_sha256": "f4a3723c399d5bb8e2a9c128af781165b167b4d62ec600b6abee9e63fbc63be6",
+      "parameters": 10887548,
+      "enabled": true,
+      "protocol": "eight_view_greedy_v1",
+      "status": "网络与 v1-preview 同宽同深，编码器与解码器换成三轴有符号整数格距独立嵌入的精确相对位置编码；训练数据 170,226 条（旧 158,842＋新生成器 11,384），30,000 步，末段平均 loss 0.1364（方块 0.0978）；四套百题 99／90／79／39，综合航械题 307/400",
+      "conditioning": {
+        "size": true,
+        "targets": true,
+        "max_ticks": false,
+        "rounds": false,
+        "load_blocks": false,
+        "target_z": false
+      }
+    }
+  ]
+}

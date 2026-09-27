@@ -1,0 +1,125 @@
+{
+  "id": "combined-noz-relpos-12d-10.8m",
+  "name": "oooi-scmls-v1-preview",
+  "architecture": "autoregressive_v1",
+  "inference": "cached_decoder_v1",
+  "config": {
+    "width": 224,
+    "heads": 7,
+    "encoder_layers": 7,
+    "decoder_layers": 8,
+    "dropout": 0.1,
+    "use_target_z": false,
+    "use_run_features": false,
+    "decoder_relative": true
+  },
+  "parameters": 10808901,
+  "feature_columns": 12,
+  "states": [
+    [
+      "air",
+      "positive_z"
+    ],
+    [
+      "slime_block",
+      "positive_z"
+    ],
+    [
+      "honey_block",
+      "positive_z"
+    ],
+    [
+      "redstone_block",
+      "positive_z"
+    ],
+    [
+      "iron_block",
+      "positive_z"
+    ],
+    [
+      "light_blue_glazed_terracotta",
+      "positive_z"
+    ],
+    [
+      "glass",
+      "positive_z"
+    ],
+    [
+      "piston",
+      "positive_x"
+    ],
+    [
+      "piston",
+      "negative_x"
+    ],
+    [
+      "piston",
+      "positive_y"
+    ],
+    [
+      "piston",
+      "negative_y"
+    ],
+    [
+      "piston",
+      "positive_z"
+    ],
+    [
+      "piston",
+      "negative_z"
+    ],
+    [
+      "sticky_piston",
+      "positive_x"
+    ],
+    [
+      "sticky_piston",
+      "negative_x"
+    ],
+    [
+      "sticky_piston",
+      "positive_y"
+    ],
+    [
+      "sticky_piston",
+      "negative_y"
+    ],
+    [
+      "sticky_piston",
+      "positive_z"
+    ],
+    [
+      "sticky_piston",
+      "negative_z"
+    ],
+    [
+      "observer",
+      "positive_x"
+    ],
+    [
+      "observer",
+      "negative_x"
+    ],
+    [
+      "observer",
+      "positive_y"
+    ],
+    [
+      "observer",
+      "negative_y"
+    ],
+    [
+      "observer",
+      "positive_z"
+    ],
+    [
+      "observer",
+      "negative_z"
+    ]
+  ],
+  "bos": 25,
+  "checkpoint_step": 30000,
+  "torch_sha256": "3931126d4698471cc029ccef9fb97c142f84c6ab2a57b6a26075fc60fdd167ef",
+  "torch_version": "2.6.0+cpu",
+  "verification_tasks": 3
+}

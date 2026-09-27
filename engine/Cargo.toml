@@ -1,0 +1,22 @@
+[package]
+name = "mcscai-engine"
+version = "0.1.1"
+edition = "2021"
+description = "基岩版航械红石确定性模拟引擎"
+
+[lib]
+name = "mcscai_engine"
+crate-type = ["cdylib", "rlib"]
+
+[features]
+default = []
+python = ["dep:pyo3"]
+
+[dependencies]
+pyo3 = { version = "0.24", optional = true, features = ["extension-module"] }
+serde = { version = "1", features = ["derive"] }
+serde_json = "1"
+thiserror = "2"
+
+[dev-dependencies]
+pretty_assertions = "1"

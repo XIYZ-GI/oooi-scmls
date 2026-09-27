@@ -1,0 +1,54 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+    <meta name="theme-color" content="#EAF4F7" />
+    <title>航械移动线生成</title>
+    <script>
+      // 界面自检哨兵。
+      //
+      // 这段脚本刻意不写成 type="module"：模块脚本一旦加载或执行失败，页面不会有任何
+      // 提示，只剩一片空白——真机上根本无法区分是「加载失败」「执行报错」还是「渲染
+      // 卡住」。这里挂上错误监听并检查 #root 是否真的渲染出了内容，把失败原因直接写在
+      // 屏幕上，同时 console.error 会由原生侧转发到 logcat。
+      (function () {
+        var REPORTED = false;
+        function report(title, detail) {
+          if (REPORTED) return;
+          REPORTED = true;
+          var box = document.createElement('div');
+          box.setAttribute('role', 'alert');
+          box.style.cssText = 'position:fixed;inset:0;z-index:99999;background:#EAF4F7;color:#18262B;' +
+            'font:13px/1.6 system-ui,sans-serif;padding:24px;overflow:auto;white-space:pre-wrap';
+          box.textContent = title + '\n\n' + detail +
+            '\n\n详细日志：连接电脑后执行 adb logcat -s MCSCAI-Web';
+          // 保留 React 管理的节点，避免报错后卸载组件又触发 removeChild 异常。
+          document.body.appendChild(box);
+        }
+        window.addEventListener('error', function (event) {
+          var detail = (event.error && event.error.stack) ||
+            (event.message || '') + '\n' + (event.filename || '') + ':' + (event.lineno || 0) + ':' + (event.colno || 0);
+          console.error(detail);
+          report('页面脚本出错', detail);
+        });
+        window.addEventListener('unhandledrejection', function (event) {
+          report('页面存在未处理的异步错误', String((event.reason && event.reason.stack) || event.reason));
+        });
+        // 正常渲染后 #root 会有子节点；超时仍为空说明脚本没跑起来。
+        window.setTimeout(function () {
+          var root = document.getElementById('root');
+          if (!root || root.childElementCount === 0) {
+            report('界面没有渲染出来',
+              '页面已加载但 #root 仍然为空。常见原因是模块脚本未能执行——' +
+              '若通过 file:// 打开，模块脚本会被 CORS 拦掉。');
+          }
+        }, 6000);
+      })();
+    </script>
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>

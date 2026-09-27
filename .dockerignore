@@ -1,0 +1,15 @@
+.git
+.venv
+node_modules
+**/node_modules
+target
+**/target
+**/dist
+**/__pycache__
+**/*.pyc
+*.tsbuildinfo
+.env
+data
+benchmarks
+android
+docs

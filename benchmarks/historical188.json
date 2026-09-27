@@ -1,0 +1,6166 @@
+[
+ {
+  "id": "historical188-000",
+  "cohort": "基础航械题",
+  "task": {
+   "width": 9,
+   "height": 6,
+   "depth": 2,
+   "targets": [
+    {
+     "x": 0,
+     "y": 1,
+     "z": 0,
+     "order": 1
+    },
+    {
+     "x": 1,
+     "y": 0,
+     "z": 0,
+     "order": 1
+    },
+    {
+     "x": 4,
+     "y": 1,
+     "z": 0,
+     "order": 2
+    },
+    {
+     "x": 5,
+     "y": 2,
+     "z": 0,
+     "order": 2
+    },
+    {
+     "x": 5,
+     "y": 3,
+     "z": 0,
+     "order": 5
+    },
+    {
+     "x": 5,
+     "y": 5,
+     "z": 0,
+     "order": 5
+    },
+    {
+     "x": 7,
+     "y": 0,
+     "z": 0,
+     "order": 3
+    },
+    {
+     "x": 7,
+     "y": 2,
+     "z": 0,
+     "order": 3
+    },
+    {
+     "x": 7,
+     "y": 5,
+     "z": 0,
+     "order": 4
+    },
+    {
+     "x": 8,
+     "y": 4,
+     "z": 0,
+     "order": 4
+    }
+   ],
+   "max_ticks": 48,
+   "rounds": 3,
+   "load_blocks": 10
+  },
+  "coverage": {
+   "category": "小于128格"
+  }
+ },
+ {
+  "id": "historical188-001",
+  "cohort": "基础航械题",
+  "task": {
+   "width": 9,
+   "height": 7,
+   "depth": 4,
+   "targets": [
+    {
+     "x": 0,
+     "y": 5,
+     "z": 0,
+     "order": 2
+    },
+    {
+     "x": 1,
+     "y": 0,
+     "z": 0,
+     "order": 1
+    },
+    {
+     "x": 1,
+     "y": 2,
+     "z": 0,
+     "order": 1
+    },
+    {
+     "x": 1,
+     "y": 4,
+     "z": 0,
+     "order": 2
+    },
+    {
+     "x": 2,
+     "y": 1,
+     "z": 0,
+     "order": 1
+    },
+    {
+     "x": 3,
+     "y": 6,
+     "z": 0,
+     "order": 3
+    },
+    {
+     "x": 4,
+     "y": 5,
+     "z": 0,
+     "order": 3
+    },
+    {
+     "x": 6,
+     "y": 5,
+     "z": 0,
+     "order": 4
+    },
+    {
+     "x": 7,
+     "y": 4,
+     "z": 0,
+     "order": 4
+    },
+    {
+     "x": 8,
+     "y": 5,
+     "z": 0,
+     "order": 4
+    }
+   ],
+   "max_ticks": 48,
+   "rounds": 3,
+   "load_blocks": 10
+  },
+  "coverage": {
+   "category": "128至511格"
+  }
+ },
+ {
+  "id": "historical188-002",
+  "cohort": "基础航械题",
+  "task": {
+   "width": 5,
+   "height": 4,
+   "depth": 2,
+   "targets": [
+    {
+     "x": 0,
+     "y": 1,
+     "z": 0,
+     "order": 1
+    },
+    {
+     "x": 2,
+     "y": 1,
+     "z": 0,
+     "order": 1
+    },
+    {
+     "x": 3,
+     "y": 3,
+     "z": 0,
+     "order": 2
+    }
+   ],
+   "rounds": 3,
+   "max_ticks": 32,
+   "load_blocks": 10
+  },
+  "coverage": {
+   "category": "小于128格"
+  }
+ },
+ {
+  "id": "historical188-003",
+  "cohort": "基础航械题",
+  "task": {
+   "width": 3,
+   "height": 5,
+   "depth": 2,
+   "targets": [
+    {
+     "x": 0,
+     "y": 3,
+     "z": 0,
+     "order": 1
+    },
+    {
+     "x": 1,
+     "y": 4,
+     "z": 0,
+     "order": 1
+    },
+    {
+     "x": 2,
+     "y": 1,
+     "z": 0,
+     "order": 2
+    }
+   ],
+   "max_ticks": 48,
+   "rounds": 3,
+   "load_blocks": 10
+  },
+  "coverage": {
+   "category": "小于128格"
+  }
+ },
+ {
+  "id": "historical188-004",
+  "cohort": "基础航械题",
+  "task": {
+   "width": 5,
+   "height": 6,
+   "depth": 4,
+   "targets": [
+    {
+     "x": 0,
+     "y": 1,
+     "z": 0,
+     "order": 3
+    },
+    {
+     "x": 1,
+     "y": 0,
+     "z": 0,
+     "order": 3
+    },
+    {
+     "x": 1,
+     "y": 2,
+     "z": 0,
+     "order": 3
+    },
+    {
+     "x": 2,
+     "y": 4,
+     "z": 0,
+     "order": 1
+    },
+    {
+     "x": 3,
+     "y": 0,
+     "z": 0,
+     "order": 2
+    },
+    {
+     "x": 3,
+     "y": 3,
+     "z": 0,
+     "order": 1
+    },
+    {
+     "x": 3,
+     "y": 5,
+     "z": 0,
+     "order": 1
+    },
+    {
+     "x": 4,
+     "y": 1,
+     "z": 0,
+     "order": 2
+    }
+   ],
+   "max_ticks": 48,
+   "rounds": 3,
+   "load_blocks": 10
+  },
+  "coverage": {
+   "category": "小于128格"
+  }
+ },
+ {
+  "id": "historical188-005",
+  "cohort": "基础航械题",
+  "task": {
+   "width": 5,
+   "height": 4,
+   "depth": 2,
+   "targets": [
+    {
+     "x": 0,
+     "y": 2,
+     "z": 0,
+     "order": 2
+    },
+    {
+     "x": 1,
+     "y": 0,
+     "z": 0,
+     "order": 1
+    },
+    {
+     "x": 1,
+     "y": 3,
+     "z": 0,
+     "order": 2
+    },
+    {
+     "x": 3,
+     "y": 0,
+     "z": 0,
+     "order": 1
+    },
+    {
+     "x": 3,
+     "y": 3,
+     "z": 0,
+     "order": 2
+    },
+    {
+     "x": 4,
+     "y": 1,
+     "z": 0,
+     "order": 1
+    }
+   ],
+   "rounds": 3,
+   "max_ticks": 32,
+   "load_blocks": 10
+  },
+  "coverage": {
+   "category": "小于128格"
+  }
+ },
+ {
+  "id": "historical188-006",
+  "cohort": "基础航械题",
+  "task": {
+   "width": 10,
+   "height": 6,
+   "depth": 2,
+   "targets": [
+    {
+     "x": 1,
+     "y": 3,
+     "z": 0,
+     "order": 5
+    },
+    {
+     "x": 1,
+     "y": 5,
+     "z": 0,
+     "order": 5
+    },
+    {
+     "x": 3,
+     "y": 1,
+     "z": 0,
+     "order": 3
+    },
+    {
+     "x": 3,
+     "y": 4,
+     "z": 0,
+     "order": 4
+    },
+    {
+     "x": 4,
+     "y": 2,
+     "z": 0,
+     "order": 3
+    },
+    {
+     "x": 5,
+     "y": 4,
+     "z": 0,
+     "order": 4
+    },
+    {
+     "x": 7,
+     "y": 4,
+     "z": 0,
+     "order": 1
+    },
+    {
+     "x": 8,
+     "y": 2,
+     "z": 0,
+     "order": 2
+    },
+    {
+     "x": 8,
+     "y": 5,
+     "z": 0,
+     "order": 1
+    },
+    {
+     "x": 9,
+     "y": 1,
+     "z": 0,
+     "order": 2
+    }
+   ],
+   "max_ticks": 48,
+   "rounds": 3,
+   "load_blocks": 10
+  },
+  "coverage": {
+   "category": "小于128格"
+  }
+ },
+ {
+  "id": "historical188-007",
+  "cohort": "基础航械题",
+  "task": {
+   "width": 6,
+   "height": 8,
+   "depth": 2,
+   "targets": [
+    {
+     "x": 1,
+     "y": 0,
+     "z": 0,
+     "order": 4
+    },
+    {
+     "x": 1,
+     "y": 2,
+     "z": 0,
+     "order": 4
+    },
+    {
+     "x": 3,
+     "y": 1,
+     "z": 0,
+     "order": 3
+    },
+    {
+     "x": 3,
+     "y": 6,
+     "z": 0,
+     "order": 1
+    },
+    {
+     "x": 4,
+     "y": 3,
+     "z": 0,
+     "order": 2
+    },
+    {
+     "x": 4,
+     "y": 7,
+     "z": 0,
+     "order": 1
+    },
+    {
+     "x": 5,
+     "y": 1,
+     "z": 0,
+     "order": 3
+    },
+    {
+     "x": 5,
+     "y": 4,
+     "z": 0,
+     "order": 2
+    }
+   ],
+   "max_ticks": 48,
+   "rounds": 3,
+   "load_blocks": 10
+  },
+  "coverage": {
+   "category": "小于128格"
+  }
+ },
+ {
+  "id": "historical188-008",
+  "cohort": "基础航械题",
+  "task": {
+   "width": 2,
+   "height": 5,
+   "depth": 2,
+   "targets": [
+    {
+     "x": 0,
+     "y": 0,
+     "z": 0,
+     "order": 1
+    },
+    {
+     "x": 0,
+     "y": 4,
+     "z": 0,
+     "order": 1
+    },
+    {
+     "x": 1,
+     "y": 1,
+     "z": 0,
+     "order": 1
+    }
+   ],
+   "max_ticks": 32,
+   "rounds": 3,
+   "load_blocks": 10
+  },
+  "coverage": {
+   "category": "小于128格"
+  }
+ },
+ {
+  "id": "historical188-009",
+  "cohort": "基础航械题",
+  "task": {
+   "width": 1,
+   "height": 5,
+   "depth": 3,
+   "targets": [
+    {
+     "x": 0,
+     "y": 0,
+     "z": -1,
+     "order": 1
+    },
+    {
+     "x": 0,
+     "y": 1,
+     "z": 0,
+     "order": 1
+    }
+   ],
+   "rounds": 3,
+   "max_ticks": 32,
+   "load_blocks": 10
+  },
+  "coverage": {
+   "category": "小于128格"
+  }
+ },
+ {
+  "id": "historical188-010",
+  "cohort": "基础航械题",
+  "task": {
+   "width": 11,
+   "height": 7,
+   "depth": 2,
+   "targets": [
+    {
+     "x": 0,
+     "y": 5,
+     "z": 0,
+     "order": 1
+    },
+    {
+     "x": 1,
+     "y": 6,
+     "z": 0,
+     "order": 1
+    },
+    {
+     "x": 2,
+     "y": 5,
+     "z": 0,
+     "order": 1
+    },
+    {
+     "x": 4,
+     "y": 1,
+     "z": 0,
+     "order": 3
+    },
+    {
+     "x": 4,
+     "y": 5,
+     "z": 0,
+     "order": 2
+    },
+    {
+     "x": 5,
+     "y": 2,
+     "z": 0,
+     "order": 3
+    },
+    {
+     "x": 5,
+     "y": 4,
+     "z": 0,
+     "order": 2
+    },
+    {
+     "x": 5,
+     "y": 6,
+     "z": 0,
+     "order": 2
+    },
+    {
+     "x": 6,
+     "y": 1,
+     "z": 0,
+     "order": 3
+    },
+    {
+     "x": 8,
+     "y": 4,
+     "z": 0,
+     "order": 5
+    },
+    {
+     "x": 9,
+     "y": 0,
+     "z": 0,
+     "order": 4
+    },
+    {
+     "x": 9,
+     "y": 2,
+     "z": 0,
+     "order": 4
+    },
+    {
+     "x": 9,
+     "y": 3,
+     "z": 0,
+     "order": 5
+    },
+    {
+     "x": 9,
+     "y": 5,
+     "z": 0,
+     "order": 5
+    },
+    {
+     "x": 10,
+     "y": 1,
+     "z": 0,
+     "order": 4
+    },
+    {
+     "x": 10,
+     "y": 4,
+     "z": 0,
+     "order": 5
+    }
+   ],
+   "max_ticks": 48,
+   "rounds": 3,
+   "load_blocks": 10
+  },
+  "coverage": {
+   "category": "128至511格"
+  }
+ },
+ {
+  "id": "historical188-011",
+  "cohort": "基础航械题",
+  "task": {
+   "width": 3,
+   "height": 7,
+   "depth": 2,
+   "targets": [
+    {
+     "x": 0,
+     "y": 5,
+     "z": 0,
+     "order": 1
+    },
+    {
+     "x": 1,
+     "y": 0,
+     "z": 0,
+     "order": 2
+    },
+    {
+     "x": 1,
+     "y": 2,
+     "z": 0,
+     "order": 2
+    },
+    {
+     "x": 1,
+     "y": 4,
+     "z": 0,
+     "order": 1
+    },
+    {
+     "x": 1,
+     "y": 6,
+     "z": 0,
+     "order": 1
+    },
+    {
+     "x": 2,
+     "y": 1,
+     "z": 0,
+     "order": 2
+    }
+   ],
+   "max_ticks": 48,
+   "rounds": 3,
+   "load_blocks": 10
+  },
+  "coverage": {
+   "category": "小于128格"
+  }
+ },
+ {
+  "id": "historical188-012",
+  "cohort": "基础航械题",
+  "task": {
+   "width": 6,
+   "height": 3,
+   "depth": 2,
+   "targets": [
+    {
+     "x": 1,
+     "y": 0,
+     "z": 0,
+     "order": 2
+    },
+    {
+     "x": 1,
+     "y": 2,
+     "z": 0,
+     "order": 2
+    },
+    {
+     "x": 3,
+     "y": 1,
+     "z": 0,
+     "order": 1
+    },
+    {
+     "x": 4,
+     "y": 2,
+     "z": 0,
+     "order": 1
+    },
+    {
+     "x": 5,
+     "y": 1,
+     "z": 0,
+     "order": 1
+    }
+   ],
+   "max_ticks": 48,
+   "rounds": 3,
+   "load_blocks": 10
+  },
+  "coverage": {
+   "category": "小于128格"
+  }
+ },
+ {
+  "id": "historical188-013",
+  "cohort": "基础航械题",
+  "task": {
+   "width": 6,
+   "height": 3,
+   "depth": 2,
+   "targets": [
+    {
+     "x": 0,
+     "y": 1,
+     "z": 0,
+     "order": 2
+    },
+    {
+     "x": 1,
+     "y": 0,
+     "z": 0,
+     "order": 2
+    },
+    {
+     "x": 1,
+     "y": 2,
+     "z": 0,
+     "order": 2
+    },
+    {
+     "x": 4,
+     "y": 0,
+     "z": 0,
+     "order": 1
+    },
+    {
+     "x": 5,
+     "y": 1,
+     "z": 0,
+     "order": 1
+    }
+   ],
+   "max_ticks": 48,
+   "rounds": 3,
+   "load_blocks": 10
+  },
+  "coverage": {
+   "category": "小于128格"
+  }
+ },
+ {
+  "id": "historical188-014",
+  "cohort": "基础航械题",
+  "task": {
+   "width": 3,
+   "height": 7,
+   "depth": 2,
+   "targets": [
+    {
+     "x": 0,
+     "y": 5,
+     "z": 0,
+     "order": 2
+    },
+    {
+     "x": 1,
+     "y": 0,
+     "z": 0,
+     "order": 1
+    },
+    {
+     "x": 1,
+     "y": 2,
+     "z": 0,
+     "order": 1
+    },
+    {
+     "x": 1,
+     "y": 4,
+     "z": 0,
+     "order": 2
+    },
+    {
+     "x": 1,
+     "y": 6,
+     "z": 0,
+     "order": 2
+    },
+    {
+     "x": 2,
+     "y": 5,
+     "z": 0,
+     "order": 2
+    }
+   ],
+   "max_ticks": 48,
+   "rounds": 3,
+   "load_blocks": 10
+  },
+  "coverage": {
+   "category": "小于128格"
+  }
+ },
+ {
+  "id": "historical188-015",
+  "cohort": "基础航械题",
+  "task": {
+   "width": 3,
+   "height": 6,
+   "depth": 2,
+   "targets": [
+    {
+     "x": 0,
+     "y": 4,
+     "z": 0,
+     "order": 2
+    },
+    {
+     "x": 1,
+     "y": 0,
+     "z": 0,
+     "order": 1
+    },
+    {
+     "x": 1,
+     "y": 2,
+     "z": 0,
+     "order": 1
+    },
+    {
+     "x": 1,
+     "y": 3,
+     "z": 0,
+     "order": 2
+    },
+    {
+     "x": 2,
+     "y": 4,
+     "z": 0,
+     "order": 2
+    }
+   ],
+   "max_ticks": 48,
+   "rounds": 3,
+   "load_blocks": 10
+  },
+  "coverage": {
+   "category": "小于128格"
+  }
+ },
+ {
+  "id": "historical188-016",
+  "cohort": "基础航械题",
+  "task": {
+   "width": 3,
+   "height": 6,
+   "depth": 2,
+   "targets": [
+    {
+     "x": 0,
+     "y": 4,
+     "z": 0,
+     "order": 2
+    },
+    {
+     "x": 1,
+     "y": 0,
+     "z": 0,
+     "order": 1
+    },
+    {
+     "x": 1,
+     "y": 2,
+     "z": 0,
+     "order": 1
+    },
+    {
+     "x": 1,
+     "y": 5,
+     "z": 0,
+     "order": 2
+    },
+    {
+     "x": 2,
+     "y": 4,
+     "z": 0,
+     "order": 2
+    }
+   ],
+   "max_ticks": 48,
+   "rounds": 3,
+   "load_blocks": 10
+  },
+  "coverage": {
+   "category": "小于128格"
+  }
+ },
+ {
+  "id": "historical188-017",
+  "cohort": "基础航械题",
+  "task": {
+   "width": 3,
+   "height": 10,
+   "depth": 2,
+   "targets": [
+    {
+     "x": 0,
+     "y": 4,
+     "z": 0,
+     "order": 2
+    },
+    {
+     "x": 0,
+     "y": 8,
+     "z": 0,
+     "order": 3
+    },
+    {
+     "x": 1,
+     "y": 2,
+     "z": 0,
+     "order": 1
+    },
+    {
+     "x": 1,
+     "y": 3,
+     "z": 0,
+     "order": 2
+    },
+    {
+     "x": 1,
+     "y": 5,
+     "z": 0,
+     "order": 2
+    },
+    {
+     "x": 1,
+     "y": 9,
+     "z": 0,
+     "order": 3
+    },
+    {
+     "x": 2,
+     "y": 1,
+     "z": 0,
+     "order": 1
+    },
+    {
+     "x": 2,
+     "y": 8,
+     "z": 0,
+     "order": 3
+    }
+   ],
+   "max_ticks": 48,
+   "rounds": 3,
+   "load_blocks": 10
+  },
+  "coverage": {
+   "category": "小于128格"
+  }
+ },
+ {
+  "id": "historical188-018",
+  "cohort": "基础航械题",
+  "task": {
+   "width": 9,
+   "height": 3,
+   "depth": 2,
+   "targets": [
+    {
+     "x": 0,
+     "y": 1,
+     "z": 0,
+     "order": 1
+    },
+    {
+     "x": 1,
+     "y": 2,
+     "z": 0,
+     "order": 1
+    },
+    {
+     "x": 2,
+     "y": 1,
+     "z": 0,
+     "order": 1
+    },
+    {
+     "x": 3,
+     "y": 1,
+     "z": 0,
+     "order": 2
+    },
+    {
+     "x": 4,
+     "y": 0,
+     "z": 0,
+     "order": 2
+    },
+    {
+     "x": 5,
+     "y": 1,
+     "z": 0,
+     "order": 2
+    },
+    {
+     "x": 6,
+     "y": 1,
+     "z": 0,
+     "order": 3
+    },
+    {
+     "x": 7,
+     "y": 0,
+     "z": 0,
+     "order": 3
+    },
+    {
+     "x": 8,
+     "y": 1,
+     "z": 0,
+     "order": 3
+    }
+   ],
+   "max_ticks": 48,
+   "rounds": 3,
+   "load_blocks": 10
+  },
+  "coverage": {
+   "category": "小于128格"
+  }
+ },
+ {
+  "id": "historical188-019",
+  "cohort": "基础航械题",
+  "task": {
+   "width": 10,
+   "height": 3,
+   "depth": 2,
+   "targets": [
+    {
+     "x": 2,
+     "y": 1,
+     "z": 0,
+     "order": 1
+    },
+    {
+     "x": 4,
+     "y": 1,
+     "z": 0,
+     "order": 2
+    },
+    {
+     "x": 7,
+     "y": 1,
+     "z": 0,
+     "order": 3
+    },
+    {
+     "x": 8,
+     "y": 0,
+     "z": 0,
+     "order": 3
+    },
+    {
+     "x": 8,
+     "y": 2,
+     "z": 0,
+     "order": 3
+    },
+    {
+     "x": 9,
+     "y": 1,
+     "z": 0,
+     "order": 3
+    }
+   ],
+   "max_ticks": 48,
+   "rounds": 3,
+   "load_blocks": 10
+  },
+  "coverage": {
+   "category": "小于128格"
+  }
+ },
+ {
+  "id": "historical188-020",
+  "cohort": "基础航械题",
+  "task": {
+   "width": 7,
+   "height": 7,
+   "depth": 2,
+   "targets": [
+    {
+     "x": 0,
+     "y": 1,
+     "z": 0,
+     "order": 2
+    },
+    {
+     "x": 1,
+     "y": 0,
+     "z": 0,
+     "order": 2
+    },
+    {
+     "x": 1,
+     "y": 4,
+     "z": 0,
+     "order": 1
+    },
+    {
+     "x": 1,
+     "y": 6,
+     "z": 0,
+     "order": 1
+    },
+    {
+     "x": 2,
+     "y": 1,
+     "z": 0,
+     "order": 2
+    },
+    {
+     "x": 2,
+     "y": 5,
+     "z": 0,
+     "order": 1
+    },
+    {
+     "x": 4,
+     "y": 1,
+     "z": 0,
+     "order": 3
+    },
+    {
+     "x": 5,
+     "y": 2,
+     "z": 0,
+     "order": 3
+    },
+    {
+     "x": 6,
+     "y": 1,
+     "z": 0,
+     "order": 3
+    }
+   ],
+   "max_ticks": 48,
+   "rounds": 3,
+   "load_blocks": 10
+  },
+  "coverage": {
+   "category": "小于128格"
+  }
+ },
+ {
+  "id": "historical188-021",
+  "cohort": "基础航械题",
+  "task": {
+   "width": 7,
+   "height": 6,
+   "depth": 2,
+   "targets": [
+    {
+     "x": 0,
+     "y": 1,
+     "z": 0,
+     "order": 1
+    },
+    {
+     "x": 2,
+     "y": 1,
+     "z": 0,
+     "order": 1
+    },
+    {
+     "x": 4,
+     "y": 4,
+     "z": 0,
+     "order": 3
+    },
+    {
+     "x": 5,
+     "y": 0,
+     "z": 0,
+     "order": 2
+    },
+    {
+     "x": 5,
+     "y": 2,
+     "z": 0,
+     "order": 2
+    },
+    {
+     "x": 5,
+     "y": 3,
+     "z": 0,
+     "order": 3
+    },
+    {
+     "x": 5,
+     "y": 5,
+     "z": 0,
+     "order": 3
+    },
+    {
+     "x": 6,
+     "y": 1,
+     "z": 0,
+     "order": 2
+    },
+    {
+     "x": 6,
+     "y": 4,
+     "z": 0,
+     "order": 3
+    }
+   ],
+   "max_ticks": 48,
+   "rounds": 3,
+   "load_blocks": 10
+  },
+  "coverage": {
+   "category": "小于128格"
+  }
+ },
+ {
+  "id": "historical188-022",
+  "cohort": "基础航械题",
+  "task": {
+   "width": 3,
+   "height": 11,
+   "depth": 2,
+   "targets": [
+    {
+     "x": 0,
+     "y": 5,
+     "z": 0,
+     "order": 2
+    },
+    {
+     "x": 0,
+     "y": 9,
+     "z": 0,
+     "order": 3
+    },
+    {
+     "x": 1,
+     "y": 0,
+     "z": 0,
+     "order": 1
+    },
+    {
+     "x": 1,
+     "y": 2,
+     "z": 0,
+     "order": 1
+    },
+    {
+     "x": 1,
+     "y": 6,
+     "z": 0,
+     "order": 2
+    },
+    {
+     "x": 1,
+     "y": 8,
+     "z": 0,
+     "order": 3
+    },
+    {
+     "x": 1,
+     "y": 10,
+     "z": 0,
+     "order": 3
+    },
+    {
+     "x": 2,
+     "y": 1,
+     "z": 0,
+     "order": 1
+    },
+    {
+     "x": 2,
+     "y": 9,
+     "z": 0,
+     "order": 3
+    }
+   ],
+   "max_ticks": 48,
+   "rounds": 3,
+   "load_blocks": 10
+  },
+  "coverage": {
+   "category": "小于128格"
+  }
+ },
+ {
+  "id": "historical188-023",
+  "cohort": "基础航械题",
+  "task": {
+   "width": 7,
+   "height": 7,
+   "depth": 2,
+   "targets": [
+    {
+     "x": 0,
+     "y": 1,
+     "z": 0,
+     "order": 2
+    },
+    {
+     "x": 1,
+     "y": 2,
+     "z": 0,
+     "order": 2
+    },
+    {
+     "x": 1,
+     "y": 4,
+     "z": 0,
+     "order": 1
+    },
+    {
+     "x": 1,
+     "y": 6,
+     "z": 0,
+     "order": 1
+    },
+    {
+     "x": 2,
+     "y": 1,
+     "z": 0,
+     "order": 2
+    },
+    {
+     "x": 4,
+     "y": 1,
+     "z": 0,
+     "order": 3
+    },
+    {
+     "x": 5,
+     "y": 0,
+     "z": 0,
+     "order": 3
+    },
+    {
+     "x": 5,
+     "y": 2,
+     "z": 0,
+     "order": 3
+    },
+    {
+     "x": 6,
+     "y": 1,
+     "z": 0,
+     "order": 3
+    }
+   ],
+   "max_ticks": 48,
+   "rounds": 3,
+   "load_blocks": 10
+  },
+  "coverage": {
+   "category": "小于128格"
+  }
+ },
+ {
+  "id": "historical188-024",
+  "cohort": "基础航械题",
+  "task": {
+   "width": 7,
+   "height": 6,
+   "depth": 2,
+   "targets": [
+    {
+     "x": 0,
+     "y": 1,
+     "z": 0,
+     "order": 4
+    },
+    {
+     "x": 0,
+     "y": 4,
+     "z": 0,
+     "order": 3
+    },
+    {
+     "x": 1,
+     "y": 0,
+     "z": 0,
+     "order": 4
+    },
+    {
+     "x": 1,
+     "y": 2,
+     "z": 0,
+     "order": 4
+    },
+    {
+     "x": 1,
+     "y": 3,
+     "z": 0,
+     "order": 3
+    },
+    {
+     "x": 1,
+     "y": 5,
+     "z": 0,
+     "order": 3
+    },
+    {
+     "x": 2,
+     "y": 1,
+     "z": 0,
+     "order": 4
+    },
+    {
+     "x": 4,
+     "y": 1,
+     "z": 0,
+     "order": 1
+    },
+    {
+     "x": 4,
+     "y": 4,
+     "z": 0,
+     "order": 2
+    },
+    {
+     "x": 5,
+     "y": 0,
+     "z": 0,
+     "order": 1
+    },
+    {
+     "x": 5,
+     "y": 2,
+     "z": 0,
+     "order": 1
+    },
+    {
+     "x": 5,
+     "y": 3,
+     "z": 0,
+     "order": 2
+    },
+    {
+     "x": 6,
+     "y": 4,
+     "z": 0,
+     "order": 2
+    }
+   ],
+   "max_ticks": 48,
+   "rounds": 3,
+   "load_blocks": 10
+  },
+  "coverage": {
+   "category": "小于128格"
+  }
+ },
+ {
+  "id": "historical188-025",
+  "cohort": "基础航械题",
+  "task": {
+   "width": 6,
+   "height": 9,
+   "depth": 2,
+   "targets": [
+    {
+     "x": 0,
+     "y": 4,
+     "z": 0,
+     "order": 2
+    },
+    {
+     "x": 0,
+     "y": 7,
+     "z": 0,
+     "order": 1
+    },
+    {
+     "x": 1,
+     "y": 5,
+     "z": 0,
+     "order": 2
+    },
+    {
+     "x": 1,
+     "y": 6,
+     "z": 0,
+     "order": 1
+    },
+    {
+     "x": 1,
+     "y": 8,
+     "z": 0,
+     "order": 1
+    },
+    {
+     "x": 2,
+     "y": 4,
+     "z": 0,
+     "order": 2
+    },
+    {
+     "x": 3,
+     "y": 1,
+     "z": 0,
+     "order": 4
+    },
+    {
+     "x": 3,
+     "y": 4,
+     "z": 0,
+     "order": 3
+    },
+    {
+     "x": 4,
+     "y": 0,
+     "z": 0,
+     "order": 4
+    },
+    {
+     "x": 4,
+     "y": 2,
+     "z": 0,
+     "order": 4
+    },
+    {
+     "x": 4,
+     "y": 3,
+     "z": 0,
+     "order": 3
+    },
+    {
+     "x": 4,
+     "y": 5,
+     "z": 0,
+     "order": 3
+    },
+    {
+     "x": 5,
+     "y": 1,
+     "z": 0,
+     "order": 4
+    }
+   ],
+   "max_ticks": 48,
+   "rounds": 3,
+   "load_blocks": 10
+  },
+  "coverage": {
+   "category": "小于128格"
+  }
+ },
+ {
+  "id": "historical188-026",
+  "cohort": "基础航械题",
+  "task": {
+   "width": 6,
+   "height": 6,
+   "depth": 2,
+   "targets": [
+    {
+     "x": 0,
+     "y": 4,
+     "z": 0,
+     "order": 2
+    },
+    {
+     "x": 1,
+     "y": 0,
+     "z": 0,
+     "order": 1
+    },
+    {
+     "x": 1,
+     "y": 2,
+     "z": 0,
+     "order": 1
+    },
+    {
+     "x": 1,
+     "y": 3,
+     "z": 0,
+     "order": 2
+    },
+    {
+     "x": 2,
+     "y": 1,
+     "z": 0,
+     "order": 1
+    },
+    {
+     "x": 2,
+     "y": 4,
+     "z": 0,
+     "order": 2
+    },
+    {
+     "x": 3,
+     "y": 1,
+     "z": 0,
+     "order": 4
+    },
+    {
+     "x": 3,
+     "y": 4,
+     "z": 0,
+     "order": 3
+    },
+    {
+     "x": 4,
+     "y": 0,
+     "z": 0,
+     "order": 4
+    },
+    {
+     "x": 4,
+     "y": 2,
+     "z": 0,
+     "order": 4
+    },
+    {
+     "x": 4,
+     "y": 3,
+     "z": 0,
+     "order": 3
+    },
+    {
+     "x": 4,
+     "y": 5,
+     "z": 0,
+     "order": 3
+    },
+    {
+     "x": 5,
+     "y": 1,
+     "z": 0,
+     "order": 4
+    }
+   ],
+   "max_ticks": 48,
+   "rounds": 3,
+   "load_blocks": 10
+  },
+  "coverage": {
+   "category": "小于128格"
+  }
+ },
+ {
+  "id": "historical188-027",
+  "cohort": "基础航械题",
+  "task": {
+   "width": 10,
+   "height": 7,
+   "depth": 2,
+   "targets": [
+    {
+     "x": 0,
+     "y": 1,
+     "z": 0,
+     "order": 4
+    },
+    {
+     "x": 1,
+     "y": 0,
+     "z": 0,
+     "order": 4
+    },
+    {
+     "x": 1,
+     "y": 2,
+     "z": 0,
+     "order": 4
+    },
+    {
+     "x": 1,
+     "y": 4,
+     "z": 0,
+     "order": 3
+    },
+    {
+     "x": 1,
+     "y": 6,
+     "z": 0,
+     "order": 3
+    },
+    {
+     "x": 2,
+     "y": 1,
+     "z": 0,
+     "order": 4
+    },
+    {
+     "x": 2,
+     "y": 5,
+     "z": 0,
+     "order": 3
+    },
+    {
+     "x": 4,
+     "y": 5,
+     "z": 0,
+     "order": 2
+    },
+    {
+     "x": 5,
+     "y": 6,
+     "z": 0,
+     "order": 2
+    },
+    {
+     "x": 6,
+     "y": 5,
+     "z": 0,
+     "order": 2
+    },
+    {
+     "x": 7,
+     "y": 5,
+     "z": 0,
+     "order": 1
+    },
+    {
+     "x": 8,
+     "y": 4,
+     "z": 0,
+     "order": 1
+    },
+    {
+     "x": 9,
+     "y": 5,
+     "z": 0,
+     "order": 1
+    }
+   ],
+   "max_ticks": 48,
+   "rounds": 3,
+   "load_blocks": 10
+  },
+  "coverage": {
+   "category": "128至511格"
+  }
+ },
+ {
+  "id": "historical188-028",
+  "cohort": "基础航械题",
+  "task": {
+   "width": 9,
+   "height": 6,
+   "depth": 4,
+   "targets": [
+    {
+     "x": 0,
+     "y": 1,
+     "z": 0,
+     "order": 1
+    },
+    {
+     "x": 1,
+     "y": 0,
+     "z": 0,
+     "order": 1
+    },
+    {
+     "x": 4,
+     "y": 1,
+     "z": 0,
+     "order": 2
+    },
+    {
+     "x": 5,
+     "y": 2,
+     "z": 0,
+     "order": 2
+    },
+    {
+     "x": 5,
+     "y": 3,
+     "z": 0,
+     "order": 5
+    },
+    {
+     "x": 5,
+     "y": 5,
+     "z": 0,
+     "order": 5
+    },
+    {
+     "x": 7,
+     "y": 0,
+     "z": 0,
+     "order": 3
+    },
+    {
+     "x": 7,
+     "y": 2,
+     "z": 0,
+     "order": 3
+    },
+    {
+     "x": 7,
+     "y": 5,
+     "z": 0,
+     "order": 4
+    },
+    {
+     "x": 8,
+     "y": 4,
+     "z": 0,
+     "order": 4
+    }
+   ],
+   "max_ticks": 48,
+   "rounds": 3,
+   "load_blocks": 10
+  },
+  "coverage": {
+   "category": "128至511格"
+  }
+ },
+ {
+  "id": "historical188-029",
+  "cohort": "基础航械题",
+  "task": {
+   "width": 5,
+   "height": 7,
+   "depth": 4,
+   "targets": [
+    {
+     "x": 1,
+     "y": 0,
+     "z": 0,
+     "order": 3
+    },
+    {
+     "x": 2,
+     "y": 5,
+     "z": 0,
+     "order": 1
+    },
+    {
+     "x": 3,
+     "y": 0,
+     "z": 0,
+     "order": 2
+    },
+    {
+     "x": 4,
+     "y": 1,
+     "z": 0,
+     "order": 2
+    }
+   ],
+   "max_ticks": 48,
+   "rounds": 3,
+   "load_blocks": 10
+  },
+  "coverage": {
+   "category": "128至511格"
+  }
+ },
+ {
+  "id": "historical188-030",
+  "cohort": "基础航械题",
+  "task": {
+   "width": 9,
+   "height": 7,
+   "depth": 5,
+   "targets": [
+    {
+     "x": 0,
+     "y": 5,
+     "z": 0,
+     "order": 2
+    },
+    {
+     "x": 1,
+     "y": 0,
+     "z": 0,
+     "order": 1
+    },
+    {
+     "x": 1,
+     "y": 2,
+     "z": 0,
+     "order": 1
+    },
+    {
+     "x": 1,
+     "y": 4,
+     "z": 0,
+     "order": 2
+    },
+    {
+     "x": 2,
+     "y": 1,
+     "z": 0,
+     "order": 1
+    },
+    {
+     "x": 3,
+     "y": 6,
+     "z": 0,
+     "order": 3
+    },
+    {
+     "x": 4,
+     "y": 5,
+     "z": 0,
+     "order": 3
+    },
+    {
+     "x": 6,
+     "y": 5,
+     "z": 0,
+     "order": 4
+    },
+    {
+     "x": 7,
+     "y": 4,
+     "z": 0,
+     "order": 4
+    },
+    {
+     "x": 8,
+     "y": 5,
+     "z": 0,
+     "order": 4
+    }
+   ],
+   "max_ticks": 48,
+   "rounds": 3,
+   "load_blocks": 10
+  },
+  "coverage": {
+   "category": "128至511格"
+  }
+ },
+ {
+  "id": "historical188-031",
+  "cohort": "基础航械题",
+  "task": {
+   "width": 4,
+   "height": 3,
+   "depth": 4,
+   "targets": [
+    {
+     "x": 0,
+     "y": 0,
+     "z": 0,
+     "order": 1
+    },
+    {
+     "x": 1,
+     "y": 1,
+     "z": 0,
+     "order": 1
+    },
+    {
+     "x": 2,
+     "y": 0,
+     "z": 0,
+     "order": 2
+    },
+    {
+     "x": 2,
+     "y": 2,
+     "z": 0,
+     "order": 2
+    },
+    {
+     "x": 3,
+     "y": 1,
+     "z": 0,
+     "order": 2
+    }
+   ],
+   "max_ticks": 32,
+   "rounds": 3,
+   "load_blocks": 10
+  },
+  "coverage": {
+   "category": "小于128格"
+  }
+ },
+ {
+  "id": "historical188-032",
+  "cohort": "基础航械题",
+  "task": {
+   "width": 7,
+   "height": 6,
+   "depth": 2,
+   "targets": [
+    {
+     "x": 1,
+     "y": 2,
+     "z": 0,
+     "order": 1
+    },
+    {
+     "x": 3,
+     "y": 2,
+     "z": 0,
+     "order": 1
+    },
+    {
+     "x": 4,
+     "y": 4,
+     "z": 0,
+     "order": 2
+    }
+   ],
+   "rounds": 3,
+   "max_ticks": 32,
+   "load_blocks": 10
+  },
+  "coverage": {
+   "category": "小于128格"
+  }
+ },
+ {
+  "id": "historical188-033",
+  "cohort": "基础航械题",
+  "task": {
+   "width": 7,
+   "height": 5,
+   "depth": 2,
+   "targets": [
+    {
+     "x": 2,
+     "y": 1,
+     "z": 0,
+     "order": 1
+    },
+    {
+     "x": 2,
+     "y": 3,
+     "z": 0,
+     "order": 1
+    },
+    {
+     "x": 3,
+     "y": 2,
+     "z": 0,
+     "order": 1
+    },
+    {
+     "x": 4,
+     "y": 1,
+     "z": 0,
+     "order": 1
+    },
+    {
+     "x": 4,
+     "y": 3,
+     "z": 0,
+     "order": 1
+    }
+   ],
+   "max_ticks": 32,
+   "rounds": 3,
+   "load_blocks": 10
+  },
+  "coverage": {
+   "category": "小于128格"
+  }
+ },
+ {
+  "id": "historical188-034",
+  "cohort": "基础航械题",
+  "task": {
+   "width": 7,
+   "height": 7,
+   "depth": 2,
+   "targets": [
+    {
+     "x": 2,
+     "y": 4,
+     "z": 0,
+     "order": 1
+    },
+    {
+     "x": 3,
+     "y": 5,
+     "z": 0,
+     "order": 1
+    },
+    {
+     "x": 4,
+     "y": 2,
+     "z": 0,
+     "order": 2
+    }
+   ],
+   "max_ticks": 48,
+   "rounds": 3,
+   "load_blocks": 10
+  },
+  "coverage": {
+   "category": "小于128格"
+  }
+ },
+ {
+  "id": "historical188-035",
+  "cohort": "基础航械题",
+  "task": {
+   "width": 7,
+   "height": 6,
+   "depth": 2,
+   "targets": [
+    {
+     "x": 1,
+     "y": 2,
+     "z": 0,
+     "order": 1
+    },
+    {
+     "x": 2,
+     "y": 1,
+     "z": 0,
+     "order": 1
+    },
+    {
+     "x": 2,
+     "y": 4,
+     "z": 0,
+     "order": 2
+    },
+    {
+     "x": 3,
+     "y": 2,
+     "z": 0,
+     "order": 1
+    },
+    {
+     "x": 4,
+     "y": 1,
+     "z": 0,
+     "order": 1
+    },
+    {
+     "x": 5,
+     "y": 2,
+     "z": 0,
+     "order": 1
+    }
+   ],
+   "rounds": 3,
+   "max_ticks": 32,
+   "load_blocks": 10
+  },
+  "coverage": {
+   "category": "小于128格"
+  }
+ },
+ {
+  "id": "historical188-036",
+  "cohort": "基础航械题",
+  "task": {
+   "width": 7,
+   "height": 8,
+   "depth": 4,
+   "targets": [
+    {
+     "x": 1,
+     "y": 2,
+     "z": 0,
+     "order": 3
+    },
+    {
+     "x": 2,
+     "y": 1,
+     "z": 0,
+     "order": 3
+    },
+    {
+     "x": 2,
+     "y": 3,
+     "z": 0,
+     "order": 3
+    },
+    {
+     "x": 3,
+     "y": 5,
+     "z": 0,
+     "order": 1
+    },
+    {
+     "x": 4,
+     "y": 1,
+     "z": 0,
+     "order": 2
+    },
+    {
+     "x": 4,
+     "y": 4,
+     "z": 0,
+     "order": 1
+    },
+    {
+     "x": 4,
+     "y": 6,
+     "z": 0,
+     "order": 1
+    },
+    {
+     "x": 5,
+     "y": 2,
+     "z": 0,
+     "order": 2
+    }
+   ],
+   "max_ticks": 48,
+   "rounds": 3,
+   "load_blocks": 10
+  },
+  "coverage": {
+   "category": "128至511格"
+  }
+ },
+ {
+  "id": "historical188-037",
+  "cohort": "基础航械题",
+  "task": {
+   "width": 7,
+   "height": 6,
+   "depth": 2,
+   "targets": [
+    {
+     "x": 1,
+     "y": 3,
+     "z": 0,
+     "order": 2
+    },
+    {
+     "x": 2,
+     "y": 1,
+     "z": 0,
+     "order": 1
+    },
+    {
+     "x": 2,
+     "y": 4,
+     "z": 0,
+     "order": 2
+    },
+    {
+     "x": 4,
+     "y": 1,
+     "z": 0,
+     "order": 1
+    },
+    {
+     "x": 4,
+     "y": 4,
+     "z": 0,
+     "order": 2
+    },
+    {
+     "x": 5,
+     "y": 2,
+     "z": 0,
+     "order": 1
+    }
+   ],
+   "rounds": 3,
+   "max_ticks": 32,
+   "load_blocks": 10
+  },
+  "coverage": {
+   "category": "小于128格"
+  }
+ },
+ {
+  "id": "historical188-038",
+  "cohort": "基础航械题",
+  "task": {
+   "width": 11,
+   "height": 11,
+   "depth": 2,
+   "targets": [
+    {
+     "x": 1,
+     "y": 2,
+     "z": 0,
+     "order": 5
+    },
+    {
+     "x": 2,
+     "y": 1,
+     "z": 0,
+     "order": 5
+    },
+    {
+     "x": 2,
+     "y": 3,
+     "z": 0,
+     "order": 5
+    },
+    {
+     "x": 3,
+     "y": 2,
+     "z": 0,
+     "order": 5
+    },
+    {
+     "x": 5,
+     "y": 2,
+     "z": 0,
+     "order": 4
+    },
+    {
+     "x": 5,
+     "y": 4,
+     "z": 0,
+     "order": 3
+    },
+    {
+     "x": 6,
+     "y": 1,
+     "z": 0,
+     "order": 4
+    },
+    {
+     "x": 6,
+     "y": 5,
+     "z": 0,
+     "order": 3
+    },
+    {
+     "x": 7,
+     "y": 2,
+     "z": 0,
+     "order": 4
+    },
+    {
+     "x": 7,
+     "y": 8,
+     "z": 0,
+     "order": 1
+    },
+    {
+     "x": 8,
+     "y": 3,
+     "z": 0,
+     "order": 2
+    },
+    {
+     "x": 8,
+     "y": 7,
+     "z": 0,
+     "order": 1
+    },
+    {
+     "x": 8,
+     "y": 9,
+     "z": 0,
+     "order": 1
+    },
+    {
+     "x": 9,
+     "y": 4,
+     "z": 0,
+     "order": 2
+    }
+   ],
+   "max_ticks": 48,
+   "rounds": 3,
+   "load_blocks": 10
+  },
+  "coverage": {
+   "category": "128至511格"
+  }
+ },
+ {
+  "id": "historical188-039",
+  "cohort": "基础航械题",
+  "task": {
+   "width": 12,
+   "height": 8,
+   "depth": 2,
+   "targets": [
+    {
+     "x": 2,
+     "y": 4,
+     "z": 0,
+     "order": 5
+    },
+    {
+     "x": 2,
+     "y": 6,
+     "z": 0,
+     "order": 5
+    },
+    {
+     "x": 4,
+     "y": 2,
+     "z": 0,
+     "order": 3
+    },
+    {
+     "x": 4,
+     "y": 5,
+     "z": 0,
+     "order": 4
+    },
+    {
+     "x": 5,
+     "y": 3,
+     "z": 0,
+     "order": 3
+    },
+    {
+     "x": 6,
+     "y": 5,
+     "z": 0,
+     "order": 4
+    },
+    {
+     "x": 8,
+     "y": 5,
+     "z": 0,
+     "order": 1
+    },
+    {
+     "x": 9,
+     "y": 3,
+     "z": 0,
+     "order": 2
+    },
+    {
+     "x": 9,
+     "y": 6,
+     "z": 0,
+     "order": 1
+    },
+    {
+     "x": 10,
+     "y": 2,
+     "z": 0,
+     "order": 2
+    }
+   ],
+   "max_ticks": 48,
+   "rounds": 3,
+   "load_blocks": 10
+  },
+  "coverage": {
+   "category": "128至511格"
+  }
+ },
+ {
+  "id": "historical188-040",
+  "cohort": "基础航械题",
+  "task": {
+   "width": 7,
+   "height": 14,
+   "depth": 3,
+   "targets": [
+    {
+     "x": 2,
+     "y": 2,
+     "z": -1,
+     "order": 4
+    },
+    {
+     "x": 2,
+     "y": 5,
+     "z": -1,
+     "order": 3
+    },
+    {
+     "x": 2,
+     "y": 8,
+     "z": -1,
+     "order": 2
+    },
+    {
+     "x": 2,
+     "y": 11,
+     "z": -1,
+     "order": 1
+    },
+    {
+     "x": 3,
+     "y": 1,
+     "z": -1,
+     "order": 4
+    },
+    {
+     "x": 3,
+     "y": 2,
+     "z": 0,
+     "order": 4
+    },
+    {
+     "x": 3,
+     "y": 3,
+     "z": -1,
+     "order": 4
+    },
+    {
+     "x": 3,
+     "y": 5,
+     "z": 0,
+     "order": 3
+    },
+    {
+     "x": 3,
+     "y": 6,
+     "z": -1,
+     "order": 3
+    },
+    {
+     "x": 3,
+     "y": 8,
+     "z": 0,
+     "order": 2
+    },
+    {
+     "x": 3,
+     "y": 9,
+     "z": -1,
+     "order": 2
+    },
+    {
+     "x": 3,
+     "y": 11,
+     "z": 0,
+     "order": 1
+    },
+    {
+     "x": 3,
+     "y": 12,
+     "z": -1,
+     "order": 1
+    },
+    {
+     "x": 4,
+     "y": 2,
+     "z": -1,
+     "order": 4
+    },
+    {
+     "x": 4,
+     "y": 5,
+     "z": -1,
+     "order": 3
+    },
+    {
+     "x": 4,
+     "y": 8,
+     "z": -1,
+     "order": 2
+    },
+    {
+     "x": 4,
+     "y": 11,
+     "z": -1,
+     "order": 1
+    }
+   ],
+   "max_ticks": 200,
+   "rounds": 3,
+   "load_blocks": 10
+  },
+  "coverage": {
+   "category": "128至511格"
+  }
+ },
+ {
+  "id": "historical188-041",
+  "cohort": "基础航械题",
+  "task": {
+   "width": 3,
+   "height": 12,
+   "depth": 4,
+   "targets": [
+    {
+     "x": 0,
+     "y": 1,
+     "z": -1,
+     "order": 4
+    },
+    {
+     "x": 0,
+     "y": 4,
+     "z": -1,
+     "order": 3
+    },
+    {
+     "x": 0,
+     "y": 7,
+     "z": -1,
+     "order": 2
+    },
+    {
+     "x": 0,
+     "y": 10,
+     "z": -1,
+     "order": 1
+    },
+    {
+     "x": 1,
+     "y": 0,
+     "z": -1,
+     "order": 4
+    },
+    {
+     "x": 1,
+     "y": 1,
+     "z": 0,
+     "order": 4
+    },
+    {
+     "x": 1,
+     "y": 2,
+     "z": -1,
+     "order": 4
+    },
+    {
+     "x": 1,
+     "y": 4,
+     "z": 0,
+     "order": 3
+    },
+    {
+     "x": 1,
+     "y": 5,
+     "z": -1,
+     "order": 3
+    },
+    {
+     "x": 1,
+     "y": 7,
+     "z": 0,
+     "order": 2
+    },
+    {
+     "x": 1,
+     "y": 8,
+     "z": -1,
+     "order": 2
+    },
+    {
+     "x": 1,
+     "y": 10,
+     "z": 0,
+     "order": 1
+    },
+    {
+     "x": 1,
+     "y": 11,
+     "z": -1,
+     "order": 1
+    },
+    {
+     "x": 2,
+     "y": 1,
+     "z": -1,
+     "order": 4
+    },
+    {
+     "x": 2,
+     "y": 4,
+     "z": -1,
+     "order": 3
+    },
+    {
+     "x": 2,
+     "y": 7,
+     "z": -1,
+     "order": 2
+    },
+    {
+     "x": 2,
+     "y": 10,
+     "z": -1,
+     "order": 1
+    }
+   ],
+   "max_ticks": 200,
+   "rounds": 3,
+   "load_blocks": 10
+  },
+  "coverage": {
+   "category": "128至511格"
+  }
+ },
+ {
+  "id": "historical188-042",
+  "cohort": "基础航械题",
+  "task": {
+   "width": 6,
+   "height": 8,
+   "depth": 4,
+   "targets": [
+    {
+     "x": 1,
+     "y": 0,
+     "z": 0,
+     "order": 4
+    },
+    {
+     "x": 1,
+     "y": 2,
+     "z": 0,
+     "order": 4
+    },
+    {
+     "x": 3,
+     "y": 1,
+     "z": 0,
+     "order": 3
+    },
+    {
+     "x": 3,
+     "y": 6,
+     "z": 0,
+     "order": 1
+    },
+    {
+     "x": 4,
+     "y": 3,
+     "z": 0,
+     "order": 2
+    },
+    {
+     "x": 4,
+     "y": 7,
+     "z": 0,
+     "order": 1
+    },
+    {
+     "x": 5,
+     "y": 1,
+     "z": 0,
+     "order": 3
+    },
+    {
+     "x": 5,
+     "y": 4,
+     "z": 0,
+     "order": 2
+    }
+   ],
+   "max_ticks": 48,
+   "rounds": 3,
+   "load_blocks": 10
+  },
+  "coverage": {
+   "category": "128至511格"
+  }
+ },
+ {
+  "id": "historical188-043",
+  "cohort": "基础航械题",
+  "task": {
+   "width": 7,
+   "height": 9,
+   "depth": 4,
+   "targets": [
+    {
+     "x": 0,
+     "y": 1,
+     "z": 0,
+     "order": 1
+    },
+    {
+     "x": 1,
+     "y": 2,
+     "z": 0,
+     "order": 1
+    },
+    {
+     "x": 2,
+     "y": 5,
+     "z": 0,
+     "order": 4
+    },
+    {
+     "x": 2,
+     "y": 7,
+     "z": 0,
+     "order": 5
+    },
+    {
+     "x": 3,
+     "y": 4,
+     "z": 0,
+     "order": 4
+    },
+    {
+     "x": 3,
+     "y": 8,
+     "z": 0,
+     "order": 5
+    },
+    {
+     "x": 5,
+     "y": 0,
+     "z": 0,
+     "order": 2
+    },
+    {
+     "x": 5,
+     "y": 2,
+     "z": 0,
+     "order": 2
+    },
+    {
+     "x": 5,
+     "y": 6,
+     "z": 0,
+     "order": 3
+    }
+   ],
+   "max_ticks": 48,
+   "rounds": 3,
+   "load_blocks": 10
+  },
+  "coverage": {
+   "category": "128至511格"
+  }
+ },
+ {
+  "id": "historical188-044",
+  "cohort": "基础航械题",
+  "task": {
+   "width": 2,
+   "height": 5,
+   "depth": 4,
+   "targets": [
+    {
+     "x": 0,
+     "y": 0,
+     "z": 0,
+     "order": 1
+    },
+    {
+     "x": 0,
+     "y": 4,
+     "z": 0,
+     "order": 1
+    },
+    {
+     "x": 1,
+     "y": 1,
+     "z": 0,
+     "order": 1
+    }
+   ],
+   "max_ticks": 32,
+   "rounds": 3,
+   "load_blocks": 10
+  },
+  "coverage": {
+   "category": "小于128格"
+  }
+ },
+ {
+  "id": "historical188-045",
+  "cohort": "基础航械题",
+  "task": {
+   "width": 4,
+   "height": 5,
+   "depth": 4,
+   "targets": [
+    {
+     "x": 1,
+     "y": 1,
+     "z": 0,
+     "order": 1
+    },
+    {
+     "x": 2,
+     "y": 4,
+     "z": 0,
+     "order": 1
+    },
+    {
+     "x": 3,
+     "y": 1,
+     "z": 0,
+     "order": 1
+    }
+   ],
+   "max_ticks": 32,
+   "rounds": 3,
+   "load_blocks": 10
+  },
+  "coverage": {
+   "category": "小于128格"
+  }
+ },
+ {
+  "id": "historical188-046",
+  "cohort": "基础航械题",
+  "task": {
+   "width": 1,
+   "height": 5,
+   "depth": 4,
+   "targets": [
+    {
+     "x": 0,
+     "y": 0,
+     "z": -1,
+     "order": 1
+    },
+    {
+     "x": 0,
+     "y": 1,
+     "z": 0,
+     "order": 1
+    }
+   ],
+   "rounds": 3,
+   "max_ticks": 32,
+   "load_blocks": 10
+  },
+  "coverage": {
+   "category": "小于128格"
+  }
+ },
+ {
+  "id": "historical188-047",
+  "cohort": "基础航械题",
+  "task": {
+   "width": 10,
+   "height": 7,
+   "depth": 4,
+   "targets": [
+    {
+     "x": 0,
+     "y": 5,
+     "z": 0,
+     "order": 4
+    },
+    {
+     "x": 1,
+     "y": 0,
+     "z": 0,
+     "order": 3
+    },
+    {
+     "x": 1,
+     "y": 2,
+     "z": 0,
+     "order": 3
+    },
+    {
+     "x": 1,
+     "y": 4,
+     "z": 0,
+     "order": 4
+    },
+    {
+     "x": 2,
+     "y": 1,
+     "z": 0,
+     "order": 3
+    },
+    {
+     "x": 2,
+     "y": 5,
+     "z": 0,
+     "order": 4
+    },
+    {
+     "x": 4,
+     "y": 1,
+     "z": 0,
+     "order": 2
+    },
+    {
+     "x": 4,
+     "y": 5,
+     "z": 0,
+     "order": 5
+    },
+    {
+     "x": 5,
+     "y": 2,
+     "z": 0,
+     "order": 2
+    },
+    {
+     "x": 5,
+     "y": 4,
+     "z": 0,
+     "order": 5
+    },
+    {
+     "x": 5,
+     "y": 6,
+     "z": 0,
+     "order": 5
+    },
+    {
+     "x": 6,
+     "y": 1,
+     "z": 0,
+     "order": 2
+    },
+    {
+     "x": 6,
+     "y": 5,
+     "z": 0,
+     "order": 5
+    },
+    {
+     "x": 7,
+     "y": 1,
+     "z": 0,
+     "order": 1
+    },
+    {
+     "x": 8,
+     "y": 0,
+     "z": 0,
+     "order": 1
+    }
+   ],
+   "max_ticks": 48,
+   "rounds": 3,
+   "load_blocks": 10
+  },
+  "coverage": {
+   "category": "128至511格"
+  }
+ },
+ {
+  "id": "historical188-048",
+  "cohort": "基础航械题",
+  "task": {
+   "width": 11,
+   "height": 7,
+   "depth": 4,
+   "targets": [
+    {
+     "x": 0,
+     "y": 5,
+     "z": 0,
+     "order": 1
+    },
+    {
+     "x": 1,
+     "y": 6,
+     "z": 0,
+     "order": 1
+    },
+    {
+     "x": 2,
+     "y": 5,
+     "z": 0,
+     "order": 1
+    },
+    {
+     "x": 4,
+     "y": 1,
+     "z": 0,
+     "order": 3
+    },
+    {
+     "x": 4,
+     "y": 5,
+     "z": 0,
+     "order": 2
+    },
+    {
+     "x": 5,
+     "y": 2,
+     "z": 0,
+     "order": 3
+    },
+    {
+     "x": 5,
+     "y": 4,
+     "z": 0,
+     "order": 2
+    },
+    {
+     "x": 5,
+     "y": 6,
+     "z": 0,
+     "order": 2
+    },
+    {
+     "x": 6,
+     "y": 1,
+     "z": 0,
+     "order": 3
+    },
+    {
+     "x": 8,
+     "y": 4,
+     "z": 0,
+     "order": 5
+    },
+    {
+     "x": 9,
+     "y": 0,
+     "z": 0,
+     "order": 4
+    },
+    {
+     "x": 9,
+     "y": 2,
+     "z": 0,
+     "order": 4
+    },
+    {
+     "x": 9,
+     "y": 3,
+     "z": 0,
+     "order": 5
+    },
+    {
+     "x": 9,
+     "y": 5,
+     "z": 0,
+     "order": 5
+    },
+    {
+     "x": 10,
+     "y": 1,
+     "z": 0,
+     "order": 4
+    },
+    {
+     "x": 10,
+     "y": 4,
+     "z": 0,
+     "order": 5
+    }
+   ],
+   "max_ticks": 48,
+   "rounds": 3,
+   "load_blocks": 10
+  },
+  "coverage": {
+   "category": "128至511格"
+  }
+ },
+ {
+  "id": "historical188-049",
+  "cohort": "基础航械题",
+  "task": {
+   "width": 7,
+   "height": 3,
+   "depth": 4,
+   "targets": [
+    {
+     "x": 0,
+     "y": 1,
+     "z": 0,
+     "order": 2
+    },
+    {
+     "x": 1,
+     "y": 0,
+     "z": 0,
+     "order": 2
+    },
+    {
+     "x": 2,
+     "y": 1,
+     "z": 0,
+     "order": 2
+    },
+    {
+     "x": 4,
+     "y": 1,
+     "z": 0,
+     "order": 1
+    },
+    {
+     "x": 5,
+     "y": 0,
+     "z": 0,
+     "order": 1
+    },
+    {
+     "x": 6,
+     "y": 1,
+     "z": 0,
+     "order": 1
+    }
+   ],
+   "max_ticks": 48,
+   "rounds": 3,
+   "load_blocks": 10
+  },
+  "coverage": {
+   "category": "小于128格"
+  }
+ },
+ {
+  "id": "historical188-050",
+  "cohort": "基础航械题",
+  "task": {
+   "width": 7,
+   "height": 9,
+   "depth": 2,
+   "targets": [
+    {
+     "x": 2,
+     "y": 6,
+     "z": 0,
+     "order": 1
+    },
+    {
+     "x": 3,
+     "y": 1,
+     "z": 0,
+     "order": 2
+    },
+    {
+     "x": 3,
+     "y": 3,
+     "z": 0,
+     "order": 2
+    },
+    {
+     "x": 3,
+     "y": 5,
+     "z": 0,
+     "order": 1
+    },
+    {
+     "x": 3,
+     "y": 7,
+     "z": 0,
+     "order": 1
+    },
+    {
+     "x": 4,
+     "y": 2,
+     "z": 0,
+     "order": 2
+    }
+   ],
+   "max_ticks": 48,
+   "rounds": 3,
+   "load_blocks": 10
+  },
+  "coverage": {
+   "category": "小于128格"
+  }
+ },
+ {
+  "id": "historical188-051",
+  "cohort": "基础航械题",
+  "task": {
+   "width": 8,
+   "height": 5,
+   "depth": 2,
+   "targets": [
+    {
+     "x": 1,
+     "y": 2,
+     "z": 0,
+     "order": 1
+    },
+    {
+     "x": 5,
+     "y": 1,
+     "z": 0,
+     "order": 2
+    },
+    {
+     "x": 6,
+     "y": 2,
+     "z": 0,
+     "order": 2
+    }
+   ],
+   "max_ticks": 48,
+   "rounds": 3,
+   "load_blocks": 10
+  },
+  "coverage": {
+   "category": "小于128格"
+  }
+ },
+ {
+  "id": "historical188-052",
+  "cohort": "基础航械题",
+  "task": {
+   "width": 8,
+   "height": 5,
+   "depth": 2,
+   "targets": [
+    {
+     "x": 2,
+     "y": 1,
+     "z": 0,
+     "order": 2
+    },
+    {
+     "x": 2,
+     "y": 3,
+     "z": 0,
+     "order": 2
+    },
+    {
+     "x": 4,
+     "y": 2,
+     "z": 0,
+     "order": 1
+    },
+    {
+     "x": 5,
+     "y": 3,
+     "z": 0,
+     "order": 1
+    },
+    {
+     "x": 6,
+     "y": 2,
+     "z": 0,
+     "order": 1
+    }
+   ],
+   "max_ticks": 48,
+   "rounds": 3,
+   "load_blocks": 10
+  },
+  "coverage": {
+   "category": "小于128格"
+  }
+ },
+ {
+  "id": "historical188-053",
+  "cohort": "基础航械题",
+  "task": {
+   "width": 8,
+   "height": 5,
+   "depth": 2,
+   "targets": [
+    {
+     "x": 2,
+     "y": 3,
+     "z": 0,
+     "order": 2
+    },
+    {
+     "x": 3,
+     "y": 2,
+     "z": 0,
+     "order": 2
+    },
+    {
+     "x": 4,
+     "y": 2,
+     "z": 0,
+     "order": 1
+    },
+    {
+     "x": 5,
+     "y": 1,
+     "z": 0,
+     "order": 1
+    },
+    {
+     "x": 6,
+     "y": 2,
+     "z": 0,
+     "order": 1
+    }
+   ],
+   "max_ticks": 48,
+   "rounds": 3,
+   "load_blocks": 10
+  },
+  "coverage": {
+   "category": "小于128格"
+  }
+ },
+ {
+  "id": "historical188-054",
+  "cohort": "基础航械题",
+  "task": {
+   "width": 8,
+   "height": 5,
+   "depth": 2,
+   "targets": [
+    {
+     "x": 1,
+     "y": 2,
+     "z": 0,
+     "order": 2
+    },
+    {
+     "x": 2,
+     "y": 1,
+     "z": 0,
+     "order": 2
+    },
+    {
+     "x": 2,
+     "y": 3,
+     "z": 0,
+     "order": 2
+    },
+    {
+     "x": 5,
+     "y": 1,
+     "z": 0,
+     "order": 1
+    },
+    {
+     "x": 6,
+     "y": 2,
+     "z": 0,
+     "order": 1
+    }
+   ],
+   "max_ticks": 48,
+   "rounds": 3,
+   "load_blocks": 10
+  },
+  "coverage": {
+   "category": "小于128格"
+  }
+ },
+ {
+  "id": "historical188-055",
+  "cohort": "基础航械题",
+  "task": {
+   "width": 7,
+   "height": 9,
+   "depth": 2,
+   "targets": [
+    {
+     "x": 2,
+     "y": 6,
+     "z": 0,
+     "order": 2
+    },
+    {
+     "x": 3,
+     "y": 1,
+     "z": 0,
+     "order": 1
+    },
+    {
+     "x": 3,
+     "y": 3,
+     "z": 0,
+     "order": 1
+    },
+    {
+     "x": 3,
+     "y": 5,
+     "z": 0,
+     "order": 2
+    },
+    {
+     "x": 3,
+     "y": 7,
+     "z": 0,
+     "order": 2
+    },
+    {
+     "x": 4,
+     "y": 6,
+     "z": 0,
+     "order": 2
+    }
+   ],
+   "max_ticks": 48,
+   "rounds": 3,
+   "load_blocks": 10
+  },
+  "coverage": {
+   "category": "小于128格"
+  }
+ },
+ {
+  "id": "historical188-056",
+  "cohort": "基础航械题",
+  "task": {
+   "width": 7,
+   "height": 8,
+   "depth": 2,
+   "targets": [
+    {
+     "x": 3,
+     "y": 1,
+     "z": 0,
+     "order": 1
+    },
+    {
+     "x": 3,
+     "y": 3,
+     "z": 0,
+     "order": 1
+    },
+    {
+     "x": 4,
+     "y": 2,
+     "z": 0,
+     "order": 1
+    },
+    {
+     "x": 4,
+     "y": 5,
+     "z": 0,
+     "order": 2
+    }
+   ],
+   "max_ticks": 48,
+   "rounds": 3,
+   "load_blocks": 10
+  },
+  "coverage": {
+   "category": "小于128格"
+  }
+ },
+ {
+  "id": "historical188-057",
+  "cohort": "基础航械题",
+  "task": {
+   "width": 7,
+   "height": 8,
+   "depth": 2,
+   "targets": [
+    {
+     "x": 2,
+     "y": 5,
+     "z": 0,
+     "order": 2
+    },
+    {
+     "x": 3,
+     "y": 1,
+     "z": 0,
+     "order": 1
+    },
+    {
+     "x": 3,
+     "y": 3,
+     "z": 0,
+     "order": 1
+    },
+    {
+     "x": 3,
+     "y": 4,
+     "z": 0,
+     "order": 2
+    },
+    {
+     "x": 4,
+     "y": 5,
+     "z": 0,
+     "order": 2
+    }
+   ],
+   "max_ticks": 48,
+   "rounds": 3,
+   "load_blocks": 10
+  },
+  "coverage": {
+   "category": "小于128格"
+  }
+ },
+ {
+  "id": "historical188-058",
+  "cohort": "基础航械题",
+  "task": {
+   "width": 8,
+   "height": 5,
+   "depth": 2,
+   "targets": [
+    {
+     "x": 2,
+     "y": 3,
+     "z": 0,
+     "order": 2
+    },
+    {
+     "x": 3,
+     "y": 2,
+     "z": 0,
+     "order": 2
+    },
+    {
+     "x": 5,
+     "y": 1,
+     "z": 0,
+     "order": 1
+    },
+    {
+     "x": 6,
+     "y": 2,
+     "z": 0,
+     "order": 1
+    }
+   ],
+   "max_ticks": 48,
+   "rounds": 3,
+   "load_blocks": 10
+  },
+  "coverage": {
+   "category": "小于128格"
+  }
+ },
+ {
+  "id": "historical188-059",
+  "cohort": "基础航械题",
+  "task": {
+   "width": 6,
+   "height": 3,
+   "depth": 4,
+   "targets": [
+    {
+     "x": 1,
+     "y": 2,
+     "z": 0,
+     "order": 2
+    },
+    {
+     "x": 2,
+     "y": 1,
+     "z": 0,
+     "order": 2
+    },
+    {
+     "x": 4,
+     "y": 0,
+     "z": 0,
+     "order": 1
+    },
+    {
+     "x": 5,
+     "y": 1,
+     "z": 0,
+     "order": 1
+    }
+   ],
+   "max_ticks": 48,
+   "rounds": 3,
+   "load_blocks": 10
+  },
+  "coverage": {
+   "category": "小于128格"
+  }
+ },
+ {
+  "id": "historical188-060",
+  "cohort": "基础航械题",
+  "task": {
+   "width": 3,
+   "height": 6,
+   "depth": 4,
+   "targets": [
+    {
+     "x": 0,
+     "y": 4,
+     "z": 0,
+     "order": 2
+    },
+    {
+     "x": 1,
+     "y": 0,
+     "z": 0,
+     "order": 1
+    },
+    {
+     "x": 1,
+     "y": 2,
+     "z": 0,
+     "order": 1
+    },
+    {
+     "x": 1,
+     "y": 5,
+     "z": 0,
+     "order": 2
+    },
+    {
+     "x": 2,
+     "y": 4,
+     "z": 0,
+     "order": 2
+    }
+   ],
+   "max_ticks": 48,
+   "rounds": 3,
+   "load_blocks": 10
+  },
+  "coverage": {
+   "category": "小于128格"
+  }
+ },
+ {
+  "id": "historical188-061",
+  "cohort": "基础航械题",
+  "task": {
+   "width": 3,
+   "height": 7,
+   "depth": 4,
+   "targets": [
+    {
+     "x": 0,
+     "y": 1,
+     "z": 0,
+     "order": 2
+    },
+    {
+     "x": 1,
+     "y": 2,
+     "z": 0,
+     "order": 2
+    },
+    {
+     "x": 1,
+     "y": 4,
+     "z": 0,
+     "order": 1
+    },
+    {
+     "x": 1,
+     "y": 6,
+     "z": 0,
+     "order": 1
+    },
+    {
+     "x": 2,
+     "y": 1,
+     "z": 0,
+     "order": 2
+    },
+    {
+     "x": 2,
+     "y": 5,
+     "z": 0,
+     "order": 1
+    }
+   ],
+   "max_ticks": 48,
+   "rounds": 3,
+   "load_blocks": 10
+  },
+  "coverage": {
+   "category": "小于128格"
+  }
+ },
+ {
+  "id": "historical188-062",
+  "cohort": "基础航械题",
+  "task": {
+   "width": 3,
+   "height": 10,
+   "depth": 4,
+   "targets": [
+    {
+     "x": 0,
+     "y": 4,
+     "z": 0,
+     "order": 2
+    },
+    {
+     "x": 0,
+     "y": 8,
+     "z": 0,
+     "order": 3
+    },
+    {
+     "x": 1,
+     "y": 2,
+     "z": 0,
+     "order": 1
+    },
+    {
+     "x": 1,
+     "y": 3,
+     "z": 0,
+     "order": 2
+    },
+    {
+     "x": 1,
+     "y": 5,
+     "z": 0,
+     "order": 2
+    },
+    {
+     "x": 1,
+     "y": 9,
+     "z": 0,
+     "order": 3
+    },
+    {
+     "x": 2,
+     "y": 1,
+     "z": 0,
+     "order": 1
+    },
+    {
+     "x": 2,
+     "y": 8,
+     "z": 0,
+     "order": 3
+    }
+   ],
+   "max_ticks": 48,
+   "rounds": 3,
+   "load_blocks": 10
+  },
+  "coverage": {
+   "category": "小于128格"
+  }
+ },
+ {
+  "id": "historical188-063",
+  "cohort": "基础航械题",
+  "task": {
+   "width": 7,
+   "height": 7,
+   "depth": 4,
+   "targets": [
+    {
+     "x": 0,
+     "y": 5,
+     "z": 0,
+     "order": 3
+    },
+    {
+     "x": 1,
+     "y": 4,
+     "z": 0,
+     "order": 3
+    },
+    {
+     "x": 2,
+     "y": 5,
+     "z": 0,
+     "order": 3
+    },
+    {
+     "x": 4,
+     "y": 1,
+     "z": 0,
+     "order": 1
+    },
+    {
+     "x": 5,
+     "y": 0,
+     "z": 0,
+     "order": 1
+    },
+    {
+     "x": 5,
+     "y": 2,
+     "z": 0,
+     "order": 1
+    },
+    {
+     "x": 5,
+     "y": 6,
+     "z": 0,
+     "order": 2
+    },
+    {
+     "x": 6,
+     "y": 5,
+     "z": 0,
+     "order": 2
+    }
+   ],
+   "max_ticks": 48,
+   "rounds": 3,
+   "load_blocks": 10
+  },
+  "coverage": {
+   "category": "128至511格"
+  }
+ },
+ {
+  "id": "historical188-064",
+  "cohort": "基础航械题",
+  "task": {
+   "width": 9,
+   "height": 3,
+   "depth": 4,
+   "targets": [
+    {
+     "x": 0,
+     "y": 1,
+     "z": 0,
+     "order": 1
+    },
+    {
+     "x": 1,
+     "y": 2,
+     "z": 0,
+     "order": 1
+    },
+    {
+     "x": 2,
+     "y": 1,
+     "z": 0,
+     "order": 1
+    },
+    {
+     "x": 3,
+     "y": 1,
+     "z": 0,
+     "order": 2
+    },
+    {
+     "x": 4,
+     "y": 0,
+     "z": 0,
+     "order": 2
+    },
+    {
+     "x": 5,
+     "y": 1,
+     "z": 0,
+     "order": 2
+    },
+    {
+     "x": 6,
+     "y": 1,
+     "z": 0,
+     "order": 3
+    },
+    {
+     "x": 7,
+     "y": 0,
+     "z": 0,
+     "order": 3
+    },
+    {
+     "x": 8,
+     "y": 1,
+     "z": 0,
+     "order": 3
+    }
+   ],
+   "max_ticks": 48,
+   "rounds": 3,
+   "load_blocks": 10
+  },
+  "coverage": {
+   "category": "小于128格"
+  }
+ },
+ {
+  "id": "historical188-065",
+  "cohort": "基础航械题",
+  "task": {
+   "width": 3,
+   "height": 9,
+   "depth": 4,
+   "targets": [
+    {
+     "x": 0,
+     "y": 1,
+     "z": 0,
+     "order": 3
+    },
+    {
+     "x": 0,
+     "y": 4,
+     "z": 0,
+     "order": 2
+    },
+    {
+     "x": 1,
+     "y": 2,
+     "z": 0,
+     "order": 3
+    },
+    {
+     "x": 1,
+     "y": 3,
+     "z": 0,
+     "order": 2
+    },
+    {
+     "x": 1,
+     "y": 5,
+     "z": 0,
+     "order": 2
+    },
+    {
+     "x": 1,
+     "y": 8,
+     "z": 0,
+     "order": 1
+    },
+    {
+     "x": 2,
+     "y": 7,
+     "z": 0,
+     "order": 1
+    }
+   ],
+   "max_ticks": 48,
+   "rounds": 3,
+   "load_blocks": 10
+  },
+  "coverage": {
+   "category": "小于128格"
+  }
+ },
+ {
+  "id": "historical188-066",
+  "cohort": "基础航械题",
+  "task": {
+   "width": 10,
+   "height": 3,
+   "depth": 4,
+   "targets": [
+    {
+     "x": 2,
+     "y": 1,
+     "z": 0,
+     "order": 1
+    },
+    {
+     "x": 4,
+     "y": 1,
+     "z": 0,
+     "order": 2
+    },
+    {
+     "x": 7,
+     "y": 1,
+     "z": 0,
+     "order": 3
+    },
+    {
+     "x": 8,
+     "y": 0,
+     "z": 0,
+     "order": 3
+    },
+    {
+     "x": 8,
+     "y": 2,
+     "z": 0,
+     "order": 3
+    },
+    {
+     "x": 9,
+     "y": 1,
+     "z": 0,
+     "order": 3
+    }
+   ],
+   "max_ticks": 48,
+   "rounds": 3,
+   "load_blocks": 10
+  },
+  "coverage": {
+   "category": "小于128格"
+  }
+ },
+ {
+  "id": "historical188-067",
+  "cohort": "基础航械题",
+  "task": {
+   "width": 7,
+   "height": 6,
+   "depth": 4,
+   "targets": [
+    {
+     "x": 1,
+     "y": 3,
+     "z": 0,
+     "order": 1
+    },
+    {
+     "x": 2,
+     "y": 4,
+     "z": 0,
+     "order": 1
+    },
+    {
+     "x": 4,
+     "y": 1,
+     "z": 0,
+     "order": 3
+    },
+    {
+     "x": 5,
+     "y": 0,
+     "z": 0,
+     "order": 3
+    },
+    {
+     "x": 5,
+     "y": 2,
+     "z": 0,
+     "order": 3
+    },
+    {
+     "x": 5,
+     "y": 3,
+     "z": 0,
+     "order": 2
+    },
+    {
+     "x": 5,
+     "y": 5,
+     "z": 0,
+     "order": 2
+    },
+    {
+     "x": 6,
+     "y": 1,
+     "z": 0,
+     "order": 3
+    },
+    {
+     "x": 6,
+     "y": 4,
+     "z": 0,
+     "order": 2
+    }
+   ],
+   "max_ticks": 48,
+   "rounds": 3,
+   "load_blocks": 10
+  },
+  "coverage": {
+   "category": "128至511格"
+  }
+ },
+ {
+  "id": "historical188-068",
+  "cohort": "基础航械题",
+  "task": {
+   "width": 9,
+   "height": 9,
+   "depth": 2,
+   "targets": [
+    {
+     "x": 1,
+     "y": 2,
+     "z": 0,
+     "order": 2
+    },
+    {
+     "x": 2,
+     "y": 1,
+     "z": 0,
+     "order": 2
+    },
+    {
+     "x": 2,
+     "y": 5,
+     "z": 0,
+     "order": 1
+    },
+    {
+     "x": 2,
+     "y": 7,
+     "z": 0,
+     "order": 1
+    },
+    {
+     "x": 3,
+     "y": 2,
+     "z": 0,
+     "order": 2
+    },
+    {
+     "x": 3,
+     "y": 6,
+     "z": 0,
+     "order": 1
+    },
+    {
+     "x": 5,
+     "y": 2,
+     "z": 0,
+     "order": 3
+    },
+    {
+     "x": 6,
+     "y": 3,
+     "z": 0,
+     "order": 3
+    },
+    {
+     "x": 7,
+     "y": 2,
+     "z": 0,
+     "order": 3
+    }
+   ],
+   "max_ticks": 48,
+   "rounds": 3,
+   "load_blocks": 10
+  },
+  "coverage": {
+   "category": "128至511格"
+  }
+ },
+ {
+  "id": "historical188-069",
+  "cohort": "基础航械题",
+  "task": {
+   "width": 12,
+   "height": 5,
+   "depth": 2,
+   "targets": [
+    {
+     "x": 1,
+     "y": 2,
+     "z": 0,
+     "order": 1
+    },
+    {
+     "x": 3,
+     "y": 2,
+     "z": 0,
+     "order": 1
+    },
+    {
+     "x": 5,
+     "y": 2,
+     "z": 0,
+     "order": 2
+    },
+    {
+     "x": 6,
+     "y": 1,
+     "z": 0,
+     "order": 2
+    },
+    {
+     "x": 7,
+     "y": 2,
+     "z": 0,
+     "order": 2
+    },
+    {
+     "x": 8,
+     "y": 2,
+     "z": 0,
+     "order": 3
+    },
+    {
+     "x": 9,
+     "y": 1,
+     "z": 0,
+     "order": 3
+    },
+    {
+     "x": 9,
+     "y": 3,
+     "z": 0,
+     "order": 3
+    },
+    {
+     "x": 10,
+     "y": 2,
+     "z": 0,
+     "order": 3
+    }
+   ],
+   "max_ticks": 48,
+   "rounds": 3,
+   "load_blocks": 10
+  },
+  "coverage": {
+   "category": "小于128格"
+  }
+ },
+ {
+  "id": "historical188-070",
+  "cohort": "基础航械题",
+  "task": {
+   "width": 9,
+   "height": 8,
+   "depth": 2,
+   "targets": [
+    {
+     "x": 1,
+     "y": 2,
+     "z": 0,
+     "order": 1
+    },
+    {
+     "x": 3,
+     "y": 2,
+     "z": 0,
+     "order": 1
+    },
+    {
+     "x": 5,
+     "y": 5,
+     "z": 0,
+     "order": 3
+    },
+    {
+     "x": 6,
+     "y": 1,
+     "z": 0,
+     "order": 2
+    },
+    {
+     "x": 6,
+     "y": 3,
+     "z": 0,
+     "order": 2
+    },
+    {
+     "x": 6,
+     "y": 4,
+     "z": 0,
+     "order": 3
+    },
+    {
+     "x": 6,
+     "y": 6,
+     "z": 0,
+     "order": 3
+    },
+    {
+     "x": 7,
+     "y": 2,
+     "z": 0,
+     "order": 2
+    },
+    {
+     "x": 7,
+     "y": 5,
+     "z": 0,
+     "order": 3
+    }
+   ],
+   "max_ticks": 48,
+   "rounds": 3,
+   "load_blocks": 10
+  },
+  "coverage": {
+   "category": "128至511格"
+  }
+ },
+ {
+  "id": "historical188-071",
+  "cohort": "基础航械题",
+  "task": {
+   "width": 13,
+   "height": 5,
+   "depth": 2,
+   "targets": [
+    {
+     "x": 1,
+     "y": 2,
+     "z": 0,
+     "order": 1
+    },
+    {
+     "x": 2,
+     "y": 1,
+     "z": 0,
+     "order": 1
+    },
+    {
+     "x": 3,
+     "y": 2,
+     "z": 0,
+     "order": 1
+    },
+    {
+     "x": 5,
+     "y": 2,
+     "z": 0,
+     "order": 2
+    },
+    {
+     "x": 6,
+     "y": 3,
+     "z": 0,
+     "order": 2
+    },
+    {
+     "x": 7,
+     "y": 2,
+     "z": 0,
+     "order": 2
+    },
+    {
+     "x": 10,
+     "y": 1,
+     "z": 0,
+     "order": 3
+    },
+    {
+     "x": 10,
+     "y": 3,
+     "z": 0,
+     "order": 3
+    },
+    {
+     "x": 11,
+     "y": 2,
+     "z": 0,
+     "order": 3
+    }
+   ],
+   "max_ticks": 48,
+   "rounds": 3,
+   "load_blocks": 10
+  },
+  "coverage": {
+   "category": "128至511格"
+  }
+ },
+ {
+  "id": "historical188-072",
+  "cohort": "基础航械题",
+  "task": {
+   "width": 7,
+   "height": 13,
+   "depth": 2,
+   "targets": [
+    {
+     "x": 2,
+     "y": 6,
+     "z": 0,
+     "order": 2
+    },
+    {
+     "x": 2,
+     "y": 10,
+     "z": 0,
+     "order": 3
+    },
+    {
+     "x": 3,
+     "y": 1,
+     "z": 0,
+     "order": 1
+    },
+    {
+     "x": 3,
+     "y": 3,
+     "z": 0,
+     "order": 1
+    },
+    {
+     "x": 3,
+     "y": 7,
+     "z": 0,
+     "order": 2
+    },
+    {
+     "x": 3,
+     "y": 9,
+     "z": 0,
+     "order": 3
+    },
+    {
+     "x": 3,
+     "y": 11,
+     "z": 0,
+     "order": 3
+    },
+    {
+     "x": 4,
+     "y": 2,
+     "z": 0,
+     "order": 1
+    },
+    {
+     "x": 4,
+     "y": 10,
+     "z": 0,
+     "order": 3
+    }
+   ],
+   "max_ticks": 48,
+   "rounds": 3,
+   "load_blocks": 10
+  },
+  "coverage": {
+   "category": "128至511格"
+  }
+ },
+ {
+  "id": "historical188-073",
+  "cohort": "基础航械题",
+  "task": {
+   "width": 9,
+   "height": 9,
+   "depth": 2,
+   "targets": [
+    {
+     "x": 1,
+     "y": 2,
+     "z": 0,
+     "order": 2
+    },
+    {
+     "x": 2,
+     "y": 3,
+     "z": 0,
+     "order": 2
+    },
+    {
+     "x": 2,
+     "y": 5,
+     "z": 0,
+     "order": 1
+    },
+    {
+     "x": 2,
+     "y": 7,
+     "z": 0,
+     "order": 1
+    },
+    {
+     "x": 3,
+     "y": 2,
+     "z": 0,
+     "order": 2
+    },
+    {
+     "x": 5,
+     "y": 2,
+     "z": 0,
+     "order": 3
+    },
+    {
+     "x": 6,
+     "y": 1,
+     "z": 0,
+     "order": 3
+    },
+    {
+     "x": 6,
+     "y": 3,
+     "z": 0,
+     "order": 3
+    },
+    {
+     "x": 7,
+     "y": 2,
+     "z": 0,
+     "order": 3
+    }
+   ],
+   "max_ticks": 48,
+   "rounds": 3,
+   "load_blocks": 10
+  },
+  "coverage": {
+   "category": "128至511格"
+  }
+ },
+ {
+  "id": "historical188-074",
+  "cohort": "基础航械题",
+  "task": {
+   "width": 12,
+   "height": 8,
+   "depth": 2,
+   "targets": [
+    {
+     "x": 1,
+     "y": 5,
+     "z": 0,
+     "order": 1
+    },
+    {
+     "x": 2,
+     "y": 4,
+     "z": 0,
+     "order": 1
+    },
+    {
+     "x": 3,
+     "y": 5,
+     "z": 0,
+     "order": 1
+    },
+    {
+     "x": 5,
+     "y": 2,
+     "z": 0,
+     "order": 3
+    },
+    {
+     "x": 6,
+     "y": 1,
+     "z": 0,
+     "order": 3
+    },
+    {
+     "x": 6,
+     "y": 4,
+     "z": 0,
+     "order": 2
+    },
+    {
+     "x": 6,
+     "y": 6,
+     "z": 0,
+     "order": 2
+    },
+    {
+     "x": 7,
+     "y": 2,
+     "z": 0,
+     "order": 3
+    },
+    {
+     "x": 7,
+     "y": 5,
+     "z": 0,
+     "order": 2
+    },
+    {
+     "x": 8,
+     "y": 2,
+     "z": 0,
+     "order": 4
+    },
+    {
+     "x": 9,
+     "y": 1,
+     "z": 0,
+     "order": 4
+    },
+    {
+     "x": 9,
+     "y": 3,
+     "z": 0,
+     "order": 4
+    },
+    {
+     "x": 10,
+     "y": 2,
+     "z": 0,
+     "order": 4
+    }
+   ],
+   "max_ticks": 48,
+   "rounds": 3,
+   "load_blocks": 10
+  },
+  "coverage": {
+   "category": "128至511格"
+  }
+ },
+ {
+  "id": "historical188-075",
+  "cohort": "基础航械题",
+  "task": {
+   "width": 9,
+   "height": 8,
+   "depth": 2,
+   "targets": [
+    {
+     "x": 1,
+     "y": 2,
+     "z": 0,
+     "order": 4
+    },
+    {
+     "x": 1,
+     "y": 5,
+     "z": 0,
+     "order": 3
+    },
+    {
+     "x": 2,
+     "y": 1,
+     "z": 0,
+     "order": 4
+    },
+    {
+     "x": 2,
+     "y": 3,
+     "z": 0,
+     "order": 4
+    },
+    {
+     "x": 2,
+     "y": 4,
+     "z": 0,
+     "order": 3
+    },
+    {
+     "x": 2,
+     "y": 6,
+     "z": 0,
+     "order": 3
+    },
+    {
+     "x": 3,
+     "y": 2,
+     "z": 0,
+     "order": 4
+    },
+    {
+     "x": 5,
+     "y": 2,
+     "z": 0,
+     "order": 1
+    },
+    {
+     "x": 5,
+     "y": 5,
+     "z": 0,
+     "order": 2
+    },
+    {
+     "x": 6,
+     "y": 1,
+     "z": 0,
+     "order": 1
+    },
+    {
+     "x": 6,
+     "y": 3,
+     "z": 0,
+     "order": 1
+    },
+    {
+     "x": 6,
+     "y": 4,
+     "z": 0,
+     "order": 2
+    },
+    {
+     "x": 7,
+     "y": 5,
+     "z": 0,
+     "order": 2
+    }
+   ],
+   "max_ticks": 48,
+   "rounds": 3,
+   "load_blocks": 10
+  },
+  "coverage": {
+   "category": "128至511格"
+  }
+ },
+ {
+  "id": "historical188-076",
+  "cohort": "基础航械题",
+  "task": {
+   "width": 8,
+   "height": 12,
+   "depth": 2,
+   "targets": [
+    {
+     "x": 1,
+     "y": 2,
+     "z": 0,
+     "order": 4
+    },
+    {
+     "x": 2,
+     "y": 1,
+     "z": 0,
+     "order": 4
+    },
+    {
+     "x": 2,
+     "y": 3,
+     "z": 0,
+     "order": 4
+    },
+    {
+     "x": 3,
+     "y": 2,
+     "z": 0,
+     "order": 4
+    },
+    {
+     "x": 4,
+     "y": 2,
+     "z": 0,
+     "order": 3
+    },
+    {
+     "x": 4,
+     "y": 5,
+     "z": 0,
+     "order": 2
+    },
+    {
+     "x": 5,
+     "y": 3,
+     "z": 0,
+     "order": 3
+    },
+    {
+     "x": 5,
+     "y": 4,
+     "z": 0,
+     "order": 2
+    },
+    {
+     "x": 5,
+     "y": 6,
+     "z": 0,
+     "order": 2
+    },
+    {
+     "x": 5,
+     "y": 8,
+     "z": 0,
+     "order": 1
+    },
+    {
+     "x": 5,
+     "y": 10,
+     "z": 0,
+     "order": 1
+    },
+    {
+     "x": 6,
+     "y": 2,
+     "z": 0,
+     "order": 3
+    },
+    {
+     "x": 6,
+     "y": 9,
+     "z": 0,
+     "order": 1
+    }
+   ],
+   "max_ticks": 48,
+   "rounds": 3,
+   "load_blocks": 10
+  },
+  "coverage": {
+   "category": "128至511格"
+  }
+ },
+ {
+  "id": "historical188-077",
+  "cohort": "基础航械题",
+  "task": {
+   "width": 6,
+   "height": 10,
+   "depth": 4,
+   "targets": [
+    {
+     "x": 0,
+     "y": 1,
+     "z": 0,
+     "order": 4
+    },
+    {
+     "x": 1,
+     "y": 0,
+     "z": 0,
+     "order": 4
+    },
+    {
+     "x": 1,
+     "y": 2,
+     "z": 0,
+     "order": 4
+    },
+    {
+     "x": 2,
+     "y": 1,
+     "z": 0,
+     "order": 4
+    },
+    {
+     "x": 3,
+     "y": 1,
+     "z": 0,
+     "order": 3
+    },
+    {
+     "x": 3,
+     "y": 4,
+     "z": 0,
+     "order": 2
+    },
+    {
+     "x": 4,
+     "y": 2,
+     "z": 0,
+     "order": 3
+    },
+    {
+     "x": 4,
+     "y": 3,
+     "z": 0,
+     "order": 2
+    },
+    {
+     "x": 4,
+     "y": 5,
+     "z": 0,
+     "order": 2
+    },
+    {
+     "x": 4,
+     "y": 7,
+     "z": 0,
+     "order": 1
+    },
+    {
+     "x": 4,
+     "y": 9,
+     "z": 0,
+     "order": 1
+    },
+    {
+     "x": 5,
+     "y": 1,
+     "z": 0,
+     "order": 3
+    },
+    {
+     "x": 5,
+     "y": 8,
+     "z": 0,
+     "order": 1
+    }
+   ],
+   "max_ticks": 48,
+   "rounds": 3,
+   "load_blocks": 10
+  },
+  "coverage": {
+   "category": "128至511格"
+  }
+ },
+ {
+  "id": "historical188-078",
+  "cohort": "基础航械题",
+  "task": {
+   "width": 6,
+   "height": 9,
+   "depth": 4,
+   "targets": [
+    {
+     "x": 0,
+     "y": 4,
+     "z": 0,
+     "order": 2
+    },
+    {
+     "x": 0,
+     "y": 7,
+     "z": 0,
+     "order": 1
+    },
+    {
+     "x": 1,
+     "y": 5,
+     "z": 0,
+     "order": 2
+    },
+    {
+     "x": 1,
+     "y": 6,
+     "z": 0,
+     "order": 1
+    },
+    {
+     "x": 1,
+     "y": 8,
+     "z": 0,
+     "order": 1
+    },
+    {
+     "x": 2,
+     "y": 4,
+     "z": 0,
+     "order": 2
+    },
+    {
+     "x": 3,
+     "y": 1,
+     "z": 0,
+     "order": 4
+    },
+    {
+     "x": 3,
+     "y": 4,
+     "z": 0,
+     "order": 3
+    },
+    {
+     "x": 4,
+     "y": 0,
+     "z": 0,
+     "order": 4
+    },
+    {
+     "x": 4,
+     "y": 2,
+     "z": 0,
+     "order": 4
+    },
+    {
+     "x": 4,
+     "y": 3,
+     "z": 0,
+     "order": 3
+    },
+    {
+     "x": 4,
+     "y": 5,
+     "z": 0,
+     "order": 3
+    },
+    {
+     "x": 5,
+     "y": 1,
+     "z": 0,
+     "order": 4
+    }
+   ],
+   "max_ticks": 48,
+   "rounds": 3,
+   "load_blocks": 10
+  },
+  "coverage": {
+   "category": "128至511格"
+  }
+ },
+ {
+  "id": "historical188-079",
+  "cohort": "基础航械题",
+  "task": {
+   "width": 9,
+   "height": 7,
+   "depth": 4,
+   "targets": [
+    {
+     "x": 0,
+     "y": 1,
+     "z": 0,
+     "order": 4
+    },
+    {
+     "x": 0,
+     "y": 5,
+     "z": 0,
+     "order": 3
+    },
+    {
+     "x": 1,
+     "y": 0,
+     "z": 0,
+     "order": 4
+    },
+    {
+     "x": 1,
+     "y": 2,
+     "z": 0,
+     "order": 4
+    },
+    {
+     "x": 1,
+     "y": 4,
+     "z": 0,
+     "order": 3
+    },
+    {
+     "x": 1,
+     "y": 6,
+     "z": 0,
+     "order": 3
+    },
+    {
+     "x": 2,
+     "y": 1,
+     "z": 0,
+     "order": 4
+    },
+    {
+     "x": 3,
+     "y": 5,
+     "z": 0,
+     "order": 2
+    },
+    {
+     "x": 4,
+     "y": 4,
+     "z": 0,
+     "order": 2
+    },
+    {
+     "x": 5,
+     "y": 5,
+     "z": 0,
+     "order": 2
+    },
+    {
+     "x": 6,
+     "y": 5,
+     "z": 0,
+     "order": 1
+    },
+    {
+     "x": 7,
+     "y": 6,
+     "z": 0,
+     "order": 1
+    },
+    {
+     "x": 8,
+     "y": 5,
+     "z": 0,
+     "order": 1
+    }
+   ],
+   "max_ticks": 48,
+   "rounds": 3,
+   "load_blocks": 10
+  },
+  "coverage": {
+   "category": "128至511格"
+  }
+ },
+ {
+  "id": "historical188-080",
+  "cohort": "基础航械题",
+  "task": {
+   "width": 6,
+   "height": 6,
+   "depth": 4,
+   "targets": [
+    {
+     "x": 0,
+     "y": 4,
+     "z": 0,
+     "order": 2
+    },
+    {
+     "x": 1,
+     "y": 0,
+     "z": 0,
+     "order": 1
+    },
+    {
+     "x": 1,
+     "y": 2,
+     "z": 0,
+     "order": 1
+    },
+    {
+     "x": 1,
+     "y": 3,
+     "z": 0,
+     "order": 2
+    },
+    {
+     "x": 2,
+     "y": 1,
+     "z": 0,
+     "order": 1
+    },
+    {
+     "x": 2,
+     "y": 4,
+     "z": 0,
+     "order": 2
+    },
+    {
+     "x": 3,
+     "y": 1,
+     "z": 0,
+     "order": 4
+    },
+    {
+     "x": 3,
+     "y": 4,
+     "z": 0,
+     "order": 3
+    },
+    {
+     "x": 4,
+     "y": 0,
+     "z": 0,
+     "order": 4
+    },
+    {
+     "x": 4,
+     "y": 2,
+     "z": 0,
+     "order": 4
+    },
+    {
+     "x": 4,
+     "y": 3,
+     "z": 0,
+     "order": 3
+    },
+    {
+     "x": 4,
+     "y": 5,
+     "z": 0,
+     "order": 3
+    },
+    {
+     "x": 5,
+     "y": 1,
+     "z": 0,
+     "order": 4
+    }
+   ],
+   "max_ticks": 48,
+   "rounds": 3,
+   "load_blocks": 10
+  },
+  "coverage": {
+   "category": "128至511格"
+  }
+ },
+ {
+  "id": "historical188-081",
+  "cohort": "基础航械题",
+  "task": {
+   "width": 9,
+   "height": 6,
+   "depth": 4,
+   "targets": [
+    {
+     "x": 0,
+     "y": 1,
+     "z": 0,
+     "order": 1
+    },
+    {
+     "x": 1,
+     "y": 2,
+     "z": 0,
+     "order": 1
+    },
+    {
+     "x": 2,
+     "y": 1,
+     "z": 0,
+     "order": 1
+    },
+    {
+     "x": 3,
+     "y": 1,
+     "z": 0,
+     "order": 2
+    },
+    {
+     "x": 3,
+     "y": 4,
+     "z": 0,
+     "order": 3
+    },
+    {
+     "x": 4,
+     "y": 0,
+     "z": 0,
+     "order": 2
+    },
+    {
+     "x": 4,
+     "y": 2,
+     "z": 0,
+     "order": 2
+    },
+    {
+     "x": 4,
+     "y": 3,
+     "z": 0,
+     "order": 3
+    },
+    {
+     "x": 5,
+     "y": 4,
+     "z": 0,
+     "order": 3
+    },
+    {
+     "x": 6,
+     "y": 4,
+     "z": 0,
+     "order": 4
+    },
+    {
+     "x": 7,
+     "y": 3,
+     "z": 0,
+     "order": 4
+    },
+    {
+     "x": 7,
+     "y": 5,
+     "z": 0,
+     "order": 4
+    },
+    {
+     "x": 8,
+     "y": 4,
+     "z": 0,
+     "order": 4
+    }
+   ],
+   "max_ticks": 48,
+   "rounds": 3,
+   "load_blocks": 10
+  },
+  "coverage": {
+   "category": "128至511格"
+  }
+ },
+ {
+  "id": "historical188-082",
+  "cohort": "基础航械题",
+  "task": {
+   "width": 10,
+   "height": 7,
+   "depth": 4,
+   "targets": [
+    {
+     "x": 0,
+     "y": 1,
+     "z": 0,
+     "order": 4
+    },
+    {
+     "x": 1,
+     "y": 0,
+     "z": 0,
+     "order": 4
+    },
+    {
+     "x": 1,
+     "y": 2,
+     "z": 0,
+     "order": 4
+    },
+    {
+     "x": 1,
+     "y": 4,
+     "z": 0,
+     "order": 3
+    },
+    {
+     "x": 1,
+     "y": 6,
+     "z": 0,
+     "order": 3
+    },
+    {
+     "x": 2,
+     "y": 1,
+     "z": 0,
+     "order": 4
+    },
+    {
+     "x": 2,
+     "y": 5,
+     "z": 0,
+     "order": 3
+    },
+    {
+     "x": 4,
+     "y": 5,
+     "z": 0,
+     "order": 2
+    },
+    {
+     "x": 5,
+     "y": 6,
+     "z": 0,
+     "order": 2
+    },
+    {
+     "x": 6,
+     "y": 5,
+     "z": 0,
+     "order": 2
+    },
+    {
+     "x": 7,
+     "y": 5,
+     "z": 0,
+     "order": 1
+    },
+    {
+     "x": 8,
+     "y": 4,
+     "z": 0,
+     "order": 1
+    },
+    {
+     "x": 9,
+     "y": 5,
+     "z": 0,
+     "order": 1
+    }
+   ],
+   "max_ticks": 48,
+   "rounds": 3,
+   "load_blocks": 10
+  },
+  "coverage": {
+   "category": "128至511格"
+  }
+ },
+ {
+  "id": "historical188-083",
+  "cohort": "基础航械题",
+  "task": {
+   "width": 4,
+   "height": 4,
+   "depth": 3,
+   "targets": [
+    {
+     "x": 0,
+     "y": 1,
+     "z": 0,
+     "order": 1
+    },
+    {
+     "x": 1,
+     "y": 0,
+     "z": 0,
+     "order": 1
+    },
+    {
+     "x": 2,
+     "y": 1,
+     "z": 0,
+     "order": 1
+    },
+    {
+     "x": 3,
+     "y": 3,
+     "z": 0,
+     "order": 2
+    }
+   ],
+   "max_ticks": 48,
+   "rounds": 3,
+   "load_blocks": 10
+  },
+  "coverage": {
+   "category": "小于128格"
+  }
+ },
+ {
+  "id": "historical188-084",
+  "cohort": "基础航械题",
+  "task": {
+   "width": 4,
+   "height": 4,
+   "depth": 4,
+   "targets": [
+    {
+     "x": 1,
+     "y": 2,
+     "z": 0,
+     "order": 1
+    },
+    {
+     "x": 0,
+     "y": 1,
+     "z": 0,
+     "order": 1
+    },
+    {
+     "x": 1,
+     "y": 0,
+     "z": 0,
+     "order": 1
+    },
+    {
+     "x": 2,
+     "y": 1,
+     "z": 0,
+     "order": 1
+    },
+    {
+     "x": 3,
+     "y": 2,
+     "z": 0,
+     "order": 1
+    },
+    {
+     "x": 2,
+     "y": 3,
+     "z": 0,
+     "order": 1
+    }
+   ],
+   "max_ticks": 48,
+   "rounds": 3,
+   "load_blocks": 10
+  },
+  "coverage": {
+   "category": "小于128格"
+  }
+ },
+ {
+  "id": "historical188-085",
+  "cohort": "基础航械题",
+  "task": {
+   "width": 4,
+   "height": 5,
+   "depth": 2,
+   "targets": [
+    {
+     "x": 1,
+     "y": 0,
+     "z": 0,
+     "order": 1
+    },
+    {
+     "x": 1,
+     "y": 2,
+     "z": 0,
+     "order": 1
+    },
+    {
+     "x": 1,
+     "y": 4,
+     "z": 0,
+     "order": 1
+    }
+   ],
+   "max_ticks": 48,
+   "rounds": 3,
+   "load_blocks": 10
+  },
+  "coverage": {
+   "category": "小于128格"
+  }
+ },
+ {
+  "id": "historical188-086",
+  "cohort": "基础航械题",
+  "task": {
+   "width": 4,
+   "height": 3,
+   "depth": 2,
+   "targets": [
+    {
+     "x": 2,
+     "y": 1,
+     "z": 0,
+     "order": 1
+    },
+    {
+     "x": 1,
+     "y": 2,
+     "z": 0,
+     "order": 1
+    },
+    {
+     "x": 0,
+     "y": 1,
+     "z": 0,
+     "order": 1
+    },
+    {
+     "x": 3,
+     "y": 0,
+     "z": 0,
+     "order": 2
+    }
+   ],
+   "max_ticks": 48,
+   "rounds": 3,
+   "load_blocks": 10
+  },
+  "coverage": {
+   "category": "小于128格"
+  }
+ },
+ {
+  "id": "historical188-087",
+  "cohort": "基础航械题",
+  "task": {
+   "width": 6,
+   "height": 2,
+   "depth": 2,
+   "targets": [
+    {
+     "x": 0,
+     "y": 1,
+     "z": 0,
+     "order": 1
+    },
+    {
+     "x": 1,
+     "y": 0,
+     "z": 0,
+     "order": 1
+    },
+    {
+     "x": 5,
+     "y": 1,
+     "z": 0,
+     "order": 1
+    }
+   ],
+   "max_ticks": 48,
+   "rounds": 3,
+   "load_blocks": 10
+  },
+  "coverage": {
+   "category": "小于128格"
+  }
+ },
+ {
+  "id": "historical188-088",
+  "cohort": "基础航械题",
+  "task": {
+   "width": 6,
+   "height": 3,
+   "depth": 2,
+   "targets": [
+    {
+     "x": 0,
+     "y": 1,
+     "z": 0,
+     "order": 1
+    },
+    {
+     "x": 1,
+     "y": 0,
+     "z": 0,
+     "order": 1
+    },
+    {
+     "x": 1,
+     "y": 2,
+     "z": 0,
+     "order": 1
+    },
+    {
+     "x": 5,
+     "y": 1,
+     "z": 0,
+     "order": 1
+    }
+   ],
+   "max_ticks": 48,
+   "rounds": 3,
+   "load_blocks": 10
+  },
+  "coverage": {
+   "category": "小于128格"
+  }
+ },
+ {
+  "id": "historical188-089",
+  "cohort": "基础航械题",
+  "task": {
+   "width": 5,
+   "height": 2,
+   "depth": 2,
+   "targets": [
+    {
+     "x": 0,
+     "y": 1,
+     "z": 0,
+     "order": 1
+    },
+    {
+     "x": 1,
+     "y": 0,
+     "z": 0,
+     "order": 1
+    },
+    {
+     "x": 3,
+     "y": 1,
+     "z": 0,
+     "order": 1
+    },
+    {
+     "x": 4,
+     "y": 0,
+     "z": 0,
+     "order": 1
+    }
+   ],
+   "max_ticks": 48,
+   "rounds": 3,
+   "load_blocks": 10
+  },
+  "coverage": {
+   "category": "小于128格"
+  }
+ },
+ {
+  "id": "historical188-090",
+  "cohort": "基础航械题",
+  "task": {
+   "width": 5,
+   "height": 3,
+   "depth": 2,
+   "targets": [
+    {
+     "x": 0,
+     "y": 1,
+     "z": 0,
+     "order": 1
+    },
+    {
+     "x": 1,
+     "y": 0,
+     "z": 0,
+     "order": 1
+    },
+    {
+     "x": 4,
+     "y": 0,
+     "z": 0,
+     "order": 1
+    },
+    {
+     "x": 4,
+     "y": 2,
+     "z": 0,
+     "order": 1
+    }
+   ],
+   "max_ticks": 48,
+   "rounds": 3,
+   "load_blocks": 10
+  },
+  "coverage": {
+   "category": "小于128格"
+  }
+ },
+ {
+  "id": "historical188-091",
+  "cohort": "基础航械题",
+  "task": {
+   "width": 8,
+   "height": 5,
+   "depth": 2,
+   "targets": [
+    {
+     "x": 1,
+     "y": 2,
+     "z": 0,
+     "order": 1
+    },
+    {
+     "x": 2,
+     "y": 1,
+     "z": 0,
+     "order": 1
+    },
+    {
+     "x": 6,
+     "y": 2,
+     "z": 0,
+     "order": 1
+    }
+   ],
+   "max_ticks": 48,
+   "rounds": 3,
+   "load_blocks": 10
+  },
+  "coverage": {
+   "category": "小于128格"
+  }
+ },
+ {
+  "id": "historical188-092",
+  "cohort": "基础航械题",
+  "task": {
+   "width": 7,
+   "height": 5,
+   "depth": 2,
+   "targets": [
+    {
+     "x": 1,
+     "y": 2,
+     "z": 0,
+     "order": 1
+    },
+    {
+     "x": 5,
+     "y": 1,
+     "z": 0,
+     "order": 1
+    },
+    {
+     "x": 5,
+     "y": 3,
+     "z": 0,
+     "order": 1
+    }
+   ],
+   "max_ticks": 48,
+   "rounds": 3,
+   "load_blocks": 10
+  },
+  "coverage": {
+   "category": "小于128格"
+  }
+ },
+ {
+  "id": "historical188-093",
+  "cohort": "基础航械题",
+  "task": {
+   "width": 8,
+   "height": 5,
+   "depth": 2,
+   "targets": [
+    {
+     "x": 1,
+     "y": 2,
+     "z": 0,
+     "order": 1
+    },
+    {
+     "x": 2,
+     "y": 1,
+     "z": 0,
+     "order": 1
+    },
+    {
+     "x": 2,
+     "y": 3,
+     "z": 0,
+     "order": 1
+    },
+    {
+     "x": 6,
+     "y": 2,
+     "z": 0,
+     "order": 1
+    }
+   ],
+   "max_ticks": 48,
+   "rounds": 3,
+   "load_blocks": 10
+  },
+  "coverage": {
+   "category": "小于128格"
+  }
+ },
+ {
+  "id": "historical188-094",
+  "cohort": "基础航械题",
+  "task": {
+   "width": 7,
+   "height": 5,
+   "depth": 2,
+   "targets": [
+    {
+     "x": 1,
+     "y": 2,
+     "z": 0,
+     "order": 1
+    },
+    {
+     "x": 2,
+     "y": 1,
+     "z": 0,
+     "order": 1
+    },
+    {
+     "x": 3,
+     "y": 2,
+     "z": 0,
+     "order": 1
+    },
+    {
+     "x": 5,
+     "y": 1,
+     "z": 0,
+     "order": 1
+    }
+   ],
+   "max_ticks": 48,
+   "rounds": 3,
+   "load_blocks": 10
+  },
+  "coverage": {
+   "category": "小于128格"
+  }
+ },
+ {
+  "id": "historical188-095",
+  "cohort": "基础航械题",
+  "task": {
+   "width": 5,
+   "height": 2,
+   "depth": 4,
+   "targets": [
+    {
+     "x": 0,
+     "y": 1,
+     "z": 0,
+     "order": 1
+    },
+    {
+     "x": 1,
+     "y": 0,
+     "z": 0,
+     "order": 1
+    },
+    {
+     "x": 2,
+     "y": 1,
+     "z": 0,
+     "order": 1
+    },
+    {
+     "x": 4,
+     "y": 0,
+     "z": 0,
+     "order": 1
+    }
+   ],
+   "max_ticks": 48,
+   "rounds": 3,
+   "load_blocks": 10
+  },
+  "coverage": {
+   "category": "小于128格"
+  }
+ },
+ {
+  "id": "historical188-096",
+  "cohort": "基础航械题",
+  "task": {
+   "width": 5,
+   "height": 2,
+   "depth": 4,
+   "targets": [
+    {
+     "x": 0,
+     "y": 1,
+     "z": 0,
+     "order": 1
+    },
+    {
+     "x": 1,
+     "y": 0,
+     "z": 0,
+     "order": 1
+    },
+    {
+     "x": 3,
+     "y": 1,
+     "z": 0,
+     "order": 1
+    },
+    {
+     "x": 4,
+     "y": 0,
+     "z": 0,
+     "order": 1
+    }
+   ],
+   "max_ticks": 48,
+   "rounds": 3,
+   "load_blocks": 10
+  },
+  "coverage": {
+   "category": "小于128格"
+  }
+ },
+ {
+  "id": "historical188-097",
+  "cohort": "基础航械题",
+  "task": {
+   "width": 5,
+   "height": 3,
+   "depth": 4,
+   "targets": [
+    {
+     "x": 0,
+     "y": 1,
+     "z": 0,
+     "order": 1
+    },
+    {
+     "x": 1,
+     "y": 0,
+     "z": 0,
+     "order": 1
+    },
+    {
+     "x": 3,
+     "y": 1,
+     "z": 0,
+     "order": 1
+    },
+    {
+     "x": 4,
+     "y": 2,
+     "z": 0,
+     "order": 1
+    }
+   ],
+   "max_ticks": 48,
+   "rounds": 3,
+   "load_blocks": 10
+  },
+  "coverage": {
+   "category": "小于128格"
+  }
+ },
+ {
+  "id": "historical188-098",
+  "cohort": "基础航械题",
+  "task": {
+   "width": 5,
+   "height": 3,
+   "depth": 4,
+   "targets": [
+    {
+     "x": 0,
+     "y": 1,
+     "z": 0,
+     "order": 1
+    },
+    {
+     "x": 1,
+     "y": 0,
+     "z": 0,
+     "order": 1
+    },
+    {
+     "x": 4,
+     "y": 0,
+     "z": 0,
+     "order": 1
+    },
+    {
+     "x": 4,
+     "y": 2,
+     "z": 0,
+     "order": 1
+    }
+   ],
+   "max_ticks": 48,
+   "rounds": 3,
+   "load_blocks": 10
+  },
+  "coverage": {
+   "category": "小于128格"
+  }
+ },
+ {
+  "id": "historical188-099",
+  "cohort": "基础航械题",
+  "task": {
+   "width": 6,
+   "height": 2,
+   "depth": 4,
+   "targets": [
+    {
+     "x": 0,
+     "y": 1,
+     "z": 0,
+     "order": 1
+    },
+    {
+     "x": 1,
+     "y": 0,
+     "z": 0,
+     "order": 1
+    },
+    {
+     "x": 4,
+     "y": 0,
+     "z": 0,
+     "order": 1
+    },
+    {
+     "x": 5,
+     "y": 1,
+     "z": 0,
+     "order": 1
+    }
+   ],
+   "max_ticks": 48,
+   "rounds": 3,
+   "load_blocks": 10
+  },
+  "coverage": {
+   "category": "小于128格"
+  }
+ }
+]

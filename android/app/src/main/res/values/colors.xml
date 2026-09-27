@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 与网页的主色调保持一致，避免启动瞬间出现明显的白底闪屏。 -->
+<resources>
+    <color name="frost">#EAF4F7</color>
+    <color name="ink">#18262B</color>
+</resources>

@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+
+# Rust / Node 构建产物
+target/
+node_modules/
+dist/
+*.tsbuildinfo
+
+# 数据、权重与运行产物
+data/
+server/wheels/*.whl
+.env
+
+# 编辑器
+.DS_Store
+.idea/
+.vscode/

@@ -1,0 +1,126 @@
+{
+  "id": "oooi-scmls-v1.1-preview",
+  "name": "oooi-scmls-v1.1-preview",
+  "architecture": "autoregressive_v1",
+  "inference": "exact_full_prefix_v1",
+  "config": {
+    "width": 224,
+    "heads": 7,
+    "encoder_layers": 7,
+    "decoder_layers": 8,
+    "dropout": 0.1,
+    "use_target_z": false,
+    "use_run_features": false,
+    "decoder_relative": false,
+    "exact_relative": true,
+    "relation_width": 8,
+    "relation_extent": 32
+  },
+  "parameters": 10887548,
+  "feature_columns": 12,
+  "states": [
+    [
+      "air",
+      "positive_z"
+    ],
+    [
+      "slime_block",
+      "positive_z"
+    ],
+    [
+      "honey_block",
+      "positive_z"
+    ],
+    [
+      "redstone_block",
+      "positive_z"
+    ],
+    [
+      "iron_block",
+      "positive_z"
+    ],
+    [
+      "light_blue_glazed_terracotta",
+      "positive_z"
+    ],
+    [
+      "glass",
+      "positive_z"
+    ],
+    [
+      "piston",
+      "positive_x"
+    ],
+    [
+      "piston",
+      "negative_x"
+    ],
+    [
+      "piston",
+      "positive_y"
+    ],
+    [
+      "piston",
+      "negative_y"
+    ],
+    [
+      "piston",
+      "positive_z"
+    ],
+    [
+      "piston",
+      "negative_z"
+    ],
+    [
+      "sticky_piston",
+      "positive_x"
+    ],
+    [
+      "sticky_piston",
+      "negative_x"
+    ],
+    [
+      "sticky_piston",
+      "positive_y"
+    ],
+    [
+      "sticky_piston",
+      "negative_y"
+    ],
+    [
+      "sticky_piston",
+      "positive_z"
+    ],
+    [
+      "sticky_piston",
+      "negative_z"
+    ],
+    [
+      "observer",
+      "positive_x"
+    ],
+    [
+      "observer",
+      "negative_x"
+    ],
+    [
+      "observer",
+      "positive_y"
+    ],
+    [
+      "observer",
+      "negative_y"
+    ],
+    [
+      "observer",
+      "positive_z"
+    ],
+    [
+      "observer",
+      "negative_z"
+    ]
+  ],
+  "bos": 25,
+  "checkpoint_step": 30000,
+  "torch_sha256": "7b12d86430fab312b804ef2125ea57effe8cb208f670af44295cbe62fcaaaa92"
+}

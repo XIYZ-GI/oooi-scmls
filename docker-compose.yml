@@ -1,0 +1,59 @@
+# 三个服务：模拟与打标后端、移动线生成推理、前端工作台。
+#
+#   sudo docker compose build      # 首次构建（会编译 Rust 引擎与前端页面）
+#   sudo docker compose up -d      # 启动
+#   sudo docker compose restart    # 只改了挂载进去的数据或权重时用这个
+#
+# 端口分别在 .env 里配置，默认 15175（网页）、8010（后端接口）。
+
+services:
+  backend:
+    build:
+      context: .
+      dockerfile: docker/Dockerfile
+      target: backend
+    environment:
+      MCSCAI_LOG_LEVEL: ${MCSCAI_LOG_LEVEL:-info}
+      MCSCAI_DATA_DIR: /app/data
+    ports:
+      - "${MCSCAI_BACKEND_PORT:-8010}:8000"
+    volumes:
+      # 会话库、结构库、打标样本与回放都落在宿主机，重建容器不会丢。
+      - ./data:/app/data
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "python", "-c", "import urllib.request; urllib.request.urlopen('http://127.0.0.1:8000/api/health')"]
+      interval: 10s
+      timeout: 3s
+      retries: 5
+
+  generation:
+    build:
+      context: .
+      dockerfile: docker/Dockerfile
+      target: generation
+    environment:
+      MCSCAI_DATA_DIR: /app/data
+      MCSCAI_MODELS_DIR: /app/models
+      # 生成是逐格自回归解码，单进程用 4 个计算线程比开满核更稳。
+      OMP_NUM_THREADS: "4"
+      MKL_NUM_THREADS: "4"
+    volumes:
+      - ./data:/app/data
+      # 模型目录只读挂载：换权重只需替换 models/ 下的文件并重启服务。
+      - ./models:/app/models:ro
+    restart: unless-stopped
+
+  frontend:
+    build:
+      context: .
+      dockerfile: docker/Dockerfile
+      target: frontend
+    ports:
+      - "${MCSCAI_FRONTEND_PORT:-15175}:80"
+    depends_on:
+      generation:
+        condition: service_started
+      backend:
+        condition: service_healthy
+    restart: unless-stopped

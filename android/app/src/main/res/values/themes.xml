@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 用淡蓝底色承接网页背景，启动时不会有白色闪屏。 -->
+    <style name="Theme.McscaiGenerator" parent="Theme.AppCompat.NoActionBar">
+        <item name="android:windowBackground">@color/frost</item>
+        <item name="android:statusBarColor">@color/frost</item>
+        <item name="android:navigationBarColor">@color/frost</item>
+        <item name="android:windowLightStatusBar">true</item>
+    </style>
+</resources>
